@@ -1,16 +1,3 @@
-# Why These Bishops Were EXCOMMUNICATED Twice By The Vatican | SSPX Schism
-
-**Channel:** Reliquary · **Target runtime:** ~30:00 (~4,500 words at ~150 wpm)
-
-> **Production notes (not for narration)**
-> - Everything about the events of Feb–July 2026 (Pagliarani's announcement, the Fernández meeting, the May 13 statement, the June 17 remark, the June 29 letter and its quotes, the July 1 ceremony, the July 2 decree, the homily quotes) comes from the reference transcript. Verify it against the published documents before recording.
-> - Before recording, also double-check: the 1974 declaration (paraphrased, not quoted), the pre-1988 dates, the FSSP headcount (the script says "more than three hundred and fifty"), and Lefebvre's father dying in a German camp.
-> - The four bishops consecrated in 2026 are not named because the reference material doesn't name them.
-
----
-
-## COLD OPEN
-
 On the first of July, 2026, roughly sixteen thousand people gathered in a meadow in the Swiss canton of Valais, on the grounds of a seminary in a village called Écône. They'd come to watch four priests lie face-down in front of an altar and stand up again as bishops.
 
 Nobody there was confused about what that meant.
@@ -29,10 +16,6 @@ In modern Church history it's almost unheard of: the same bishops cut off from R
 
 To understand how two men got excommunicated twice, you have to start with the man who made them bishops the first time.
 
----
-
-## PART ONE: THE MISSIONARY
-
 Marcel Lefebvre was born in 1905 in Tourcoing, a textile town in the far north of France, to a deeply Catholic family. Several of his siblings went into religious life. His father, a factory owner, later worked with the French Resistance and died in a German prison camp during the Second World War.
 
 Lefebvre was ordained a priest in 1929. A few years later he joined a missionary order called the Holy Ghost Fathers, and in 1932 they sent him to Gabon, then part of French Equatorial Africa. He stayed on the continent for most of the next three decades, and he rose quickly.
@@ -42,10 +25,6 @@ In 1947 he became a bishop in Senegal. The following year, Pope Pius the Twelfth
 This matters for everything that follows. Marcel Lefebvre was not an outsider who wandered into a fight with Rome. He was one of the Church's most senior and trusted missionary bishops, and for most of his career he was the establishment.
 
 In 1962 his order elected him its superior general, the head of the entire congregation worldwide. That same year, Pope John the Twenty-Third opened the Second Vatican Council.
-
----
-
-## PART TWO: THE COUNCIL
 
 The Second Vatican Council was a gathering of more than two thousand bishops from around the world. It met in Rome in four sessions between 1962 and 1965, and it set out to rethink how the Church spoke to the modern world.
 
@@ -66,10 +45,6 @@ That question is the root of the story. Lefebvre never said the Catholic Church 
 In 1969, Pope Paul the Sixth issued a new Order of the Mass, the one most Catholics attend today. By then Lefebvre had already resigned as head of his order, after its members voted for reforms he refused to carry out. He was sixty-three years old, and by his own account he expected to retire quietly.
 
 That isn't what happened.
-
----
-
-## PART THREE: A SEMINARY IN THE MOUNTAINS
 
 Soon after he stepped down, a handful of young men came to him asking for a traditional priestly formation, the kind they felt they could no longer find in reformed seminaries. Lefebvre set up a house for them in Fribourg, Switzerland.
 
@@ -95,10 +70,6 @@ Then in 1986, John Paul the Second invited leaders of the world's religions to p
 
 The next year he announced that he intended to consecrate bishops.
 
----
-
-## PART FOUR: THE PROBLEM ONLY A BISHOP CAN SOLVE
-
 To understand why that announcement was so explosive, you need to know one thing about how the Catholic Church works.
 
 Only a bishop can ordain a priest. Only bishops can make new bishops. Catholics believe this chain of ordinations, called apostolic succession, runs back unbroken to the apostles. Without a bishop, a seminary is just a school. It can train as many men as it likes, but none of them can ever be ordained.
@@ -110,10 +81,6 @@ If he died without a successor, the whole project would stop producing priests. 
 Rome understood this as well as he did, and that is what gave the negotiations their tension. Each side knew the clock was on Lefebvre's side of the table.
 
 In late 1987, the Vatican sent Cardinal Édouard Gagnon to carry out a formal inspection of the Society's houses. By most accounts he came back impressed. Serious negotiations followed in the spring of 1988. On Rome's side they were led by Cardinal Joseph Ratzinger, then head of the Congregation for the Doctrine of the Faith, the man who would later become Pope Benedict the Sixteenth.
-
----
-
-## PART FIVE: THE TWENTY-FOUR HOURS
 
 On the fifth of May, 1988, Lefebvre and Ratzinger signed a protocol of agreement.
 
@@ -139,17 +106,13 @@ Lefebvre didn't take it. On the second of June he wrote to John Paul the Second 
 
 So the final break didn't come down to doctrine. The man had already signed off on the doctrine. It came down to a gap of about six weeks, and whether he could bring himself to trust the other side for that long.
 
----
-
-## PART SIX: VALID, BUT NOT ALLOWED
-
 Before we get to what happened next, there's a distinction in Catholic law that the whole story hinges on, and it's one most people get wrong.
 
 When a bishop makes someone a bishop, Church law asks two separate questions.
 
-The first is whether it's **valid**: did the sacrament actually happen? If the man doing the consecrating is a real bishop, uses the right words and actions, and means to do what the Church does, the answer is yes. The new man is a bishop, permanently.
+The first is whether it's valid: did the sacrament actually happen? If the man doing the consecrating is a real bishop, uses the right words and actions, and means to do what the Church does, the answer is yes. The new man is a bishop, permanently.
 
-The second is whether it's **licit**: was it permitted? For a bishop, permission means a pontifical mandate, a direct authorization from the pope.
+The second is whether it's licit: was it permitted? For a bishop, permission means a pontifical mandate, a direct authorization from the pope.
 
 The two questions are independent. A consecration can be completely real and completely forbidden at the same time. Think of a key cut from the original mold. It will open the door every time. Whether you were allowed to open the door is a separate question, and the lock doesn't care.
 
@@ -160,10 +123,6 @@ Lefebvre had an answer ready. Church law itself recognizes that a person acting 
 Rome's reply was that a state of necessity can't be declared by the person it would excuse, and certainly not against the explicit judgment of the pope.
 
 Both sides were about to act on their own reading.
-
----
-
-## PART SEVEN: THE THIRTIETH OF JUNE, 1988
 
 On the thirtieth of June, 1988, under a vast tent in a field at Écône, Marcel Lefebvre consecrated four priests of the Society as bishops.
 
@@ -177,15 +136,11 @@ Rome didn't see it that way. The very next day, the first of July, Cardinal Bern
 
 Notice the wording: had incurred. Gantin wasn't imposing a penalty. Under the Code of Canon Law then in force, consecrating a bishop without a papal mandate carried an automatic excommunication, for both the consecrating bishop and the man consecrated. The provision was canon thirteen eighty-two, together with canon thirteen sixty-four, which covers schism. The decree only confirmed, in writing, something that had already happened the moment the ceremony ended.
 
-A day later, on the second of July, John Paul the Second went further. In a letter called *Ecclesia Dei*, he described the consecrations as a schismatic act, a break with the unity of the Church. He also warned ordinary Catholics that formally adhering to that break carried the same penalty.
+A day later, on the second of July, John Paul the Second went further. In a letter called Ecclesia Dei, he described the consecrations as a schismatic act, a break with the unity of the Church. He also warned ordinary Catholics that formally adhering to that break carried the same penalty.
 
 So on the evening of the thirtieth of June, Bernard Fellay and Alfonso de Galarreta walked out of that tent as fully real bishops. They could ordain priests, confirm children and consecrate other bishops, and every one of those sacraments would be valid. But in the eyes of the Church whose sacraments they were, they had no right to perform any of them.
 
 That contradiction would define the Society for the next thirty-eight years.
-
----
-
-## PART EIGHT: THE ROAD NOT TAKEN
 
 That's where most versions of this story move on. But in the summer of 1988, some members of the Society made a different choice, and it's the most important counterpoint to everything the Society says about itself.
 
@@ -199,10 +154,6 @@ Today the Fraternity has more than three hundred and fifty priests working in di
 
 That doesn't settle the theological argument. But it does undercut one central claim. The Society has always said the old rite could only be preserved by breaking with Rome. A dozen of Lefebvre's own priests tested that claim within weeks, and it turned out not to be true. They just weren't the ones in charge.
 
----
-
-## PART NINE: THE LONG MIDDLE
-
 Marcel Lefebvre died on the twenty-fifth of March, 1991, still excommunicated. Bishop de Castro Mayer died a month later.
 
 The Society didn't collapse. It grew. In 1994 its members elected Bernard Fellay, the thirty-year-old from the tent at Écône, as superior general. He would lead the Society for twenty-four years, until 2018. Alfonso de Galarreta rose beside him and eventually became first assistant, effectively his second in command.
@@ -211,7 +162,7 @@ Under Fellay, the Society's position hardened into a strategy. It would talk to 
 
 Then a new pope met both conditions.
 
-In 2007, Benedict the Sixteenth, the same Joseph Ratzinger who had signed the protocol with Lefebvre nineteen years earlier, issued a document called *Summorum Pontificum*. It said the old Latin Mass had never been abolished and that any priest could celebrate it without asking a bishop.
+In 2007, Benedict the Sixteenth, the same Joseph Ratzinger who had signed the protocol with Lefebvre nineteen years earlier, issued a document called Summorum Pontificum. It said the old Latin Mass had never been abolished and that any priest could celebrate it without asking a bishop.
 
 In December 2008, Fellay wrote asking for the excommunications to be lifted. On the twenty-first of January, 2009, Benedict granted it. A decree from the Congregation for Bishops lifted the penalty on the four surviving bishops. It said explicitly that this was meant as a first step toward full communion.
 
@@ -227,17 +178,13 @@ The Society studied it, pushed back, and exchanged drafts well into 2012. No agr
 
 Under Pope Francis, Rome kept making smaller offers. In 2015, Society priests were given the faculty to hear confessions validly. In 2017, local bishops were given ways to recognize marriages celebrated by Society priests. These were real pastoral concessions, but they were piecemeal, and none of them amounted to the reconciliation Benedict had hoped for.
 
-Then in 2021, Francis sharply restricted the old Latin Mass with a document called *Traditionis Custodes*, reversing much of what Benedict had done. For the Society, it confirmed what they had always believed: whatever Rome gives, Rome can take away.
+Then in 2021, Francis sharply restricted the old Latin Mass with a document called Traditionis Custodes, reversing much of what Benedict had done. For the Society, it confirmed what they had always believed: whatever Rome gives, Rome can take away.
 
 Meanwhile, time was doing to the Society what it had done to Lefebvre. Bishop Tissier de Mallerais died in October 2024. Williamson died in January 2025.
 
 That left two bishops: Bernard Fellay and Alfonso de Galarreta. Both were approaching seventy, and neither had a successor.
 
 The Society was back in front of the same wall that had stopped Lefebvre in 1988. This time the two men who had once been the young candidates were the old bishops at the front of the line.
-
----
-
-## PART TEN: 2026
 
 In February 2026, the Society's superior general, Father Davide Pagliarani, who succeeded Fellay in 2018, said openly that new episcopal consecrations were coming, with or without Rome's permission.
 
@@ -263,13 +210,9 @@ In his homily, Pagliarani called the consecrations an exceptional measure, propo
 
 For Rome, that analogy is the whole problem.
 
----
-
-## PART ELEVEN: ONE WORD
-
 "Excommunicated" is a word people use loosely, so it's worth being exact about what happened in 2026 and why.
 
-Church law was reorganized in 2021, and the offense of consecrating a bishop without a pontifical mandate moved to a new number: canon thirteen eighty-seven. The rule itself didn't change. The bishop who consecrates and the man who receives the consecration both incur excommunication automatically. Canon lawyers call this a *latae sententiae* penalty, which roughly means a sentence already passed. No trial, no hearing, no judge. The penalty attaches at the moment of the act.
+Church law was reorganized in 2021, and the offense of consecrating a bishop without a pontifical mandate moved to a new number: canon thirteen eighty-seven. The rule itself didn't change. The bishop who consecrates and the man who receives the consecration both incur excommunication automatically. Canon lawyers call this a latae sententiae penalty, which roughly means a sentence already passed. No trial, no hearing, no judge. The penalty attaches at the moment of the act.
 
 So the decree that followed in 2026, like Cardinal Gantin's in 1988, didn't excommunicate anyone. It recorded an excommunication that canon law says had already happened.
 
@@ -286,10 +229,6 @@ That reframes the entire forty-year dispute. The Society has always argued about
 But canonically, none of that was ever the charge. The charge was about who has the final word on whether the Council got it right. In 1988, and again in 2026, the Society's answer was the same: not Rome, or at least not yet.
 
 Pagliarani's family image works both ways. A family does share a name and a home. But in the Catholic understanding of it, the family also has a father, and the question was never whether the Society loved the house. It was whether they'd accept that the house had someone at its head.
-
----
-
-## CLOSE
 
 Marcel Lefebvre signed an agreement with Rome on the fifth of May, 1988, and withdrew from it on the sixth. The distance between those two days was about six weeks of waiting, and one old man's decision that he couldn't trust the other side for that long.
 
