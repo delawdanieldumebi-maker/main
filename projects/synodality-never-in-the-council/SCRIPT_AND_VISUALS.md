@@ -245,8 +245,6 @@ Some defenders say synodality is an ecumenical bridge: the Orthodox Churches gov
 
 There's real truth in the respect owed to the East. But look at what an Orthodox synod actually is. It's a synod of bishops. Laypeople do not vote on doctrine in an Orthodox Holy Synod. If the goal is to draw closer to the East, a process that gives laypeople votes in a synod of bishops moves in the opposite direction from the very Churches it claims to imitate.
 
-#### The three warnings — each tied to the record
-
 #### What we are not saying
 
 Before the three warnings, let's be clear about what this video is not claiming, because it's easy to hear criticism as something it isn't.
@@ -259,6 +257,7 @@ And we are not accusing any Pope of heresy. Schneider, Burke, and Müller haven'
 
 What we are saying is narrower, and harder to dismiss: listening is not the same as teaching. Consultation is not the same as authority. And a word that blurs those lines, without ever being defined, is a word the Church should not build her future on.
 
+#### The three warnings — each tied to the record
 
 **Cardinal Müller's concern is authority.** In 2022, he called the synodal process a hostile takeover of the Church of Jesus Christ. **[VERIFY: EWTN, October 2022]** Strip away the heat and his reasoning is classical theology: a bishop's authority to teach comes from Christ through ordination, not by delegation from the community. And the record shows the weight of the synod's documents rising — from recommendations in 1965 to potential participation in the ordinary Magisterium after 2018. When a consultative process can produce magisterial text, the question of where authority comes from is no longer abstract.
 
