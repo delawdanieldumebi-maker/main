@@ -4,7 +4,7 @@
 
 | Element | Spec |
 |---|---|
-| Watermark | "Christian Way Center" logo, top-left, full opacity, every shot |
+| Watermark | None. No logo or watermark in any shot (do not reproduce the reference channel's branding) |
 | Lower-third | Thin gold vertical bar + cream typewriter-serif text, lower-left. Format: `Place · detail` with a middle dot (e.g. "Our Lady of Sorrows Basilica · Chicago") |
 | Grade | Warm amber/gold, crushed blacks, heavy oval vignette on every shot |
 | Archive look | Sepia, film grain, dust, soft focus, vignette (Fatima 1917 crowd frame) |
@@ -99,7 +99,7 @@
 **12. Prayer and Call to Action**
 - Slow push-in on St. Peregrine statue for the whole prayer, candles in foreground
 - Our Lady of Fatima statue on "Our Lady of Fatima, Mother of the Church"
-- Final: Our Lady of Sorrows Basilica wide shot, fade to logo
+- Final: Our Lady of Sorrows Basilica wide shot, fade to black
 
 ## C. Rights & accuracy checklist
 - Vatican Media / news footage: use licensed clips or brief, fair-use-safe excerpts
