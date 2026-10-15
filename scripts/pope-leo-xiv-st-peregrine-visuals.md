@@ -1,40 +1,108 @@
-# Visual Guide — Why Pope Leo XIV's Cancer Sent the World to the Saint Who Was the Pope's Enemy
+# Visual Plan — Why Pope Leo XIV's Cancer Sent the World to the Saint Who Was the Pope's Enemy
 
-## Channel visual DNA (from reference frames)
+## A. Visual DNA (from reference frames)
 
 | Element | Spec |
 |---|---|
-| Lower-third | Thin gold vertical bar + white typewriter-serif text (e.g. Special Elite / American Typewriter), bottom-left at ~80% height. Format: `Place · detail` with a middle dot. Sentence case. No box, no background. |
-| Grade | Warm, low-key. Gold/amber highlights, crushed blacks, heavy oval vignette. |
-| Historical footage | Sepia, film grain, dust and scratches, soft focus, darker vignette. |
-| Present-day footage | Real news/event footage. Tight faces, shallow depth of field, candlelight, night tones. |
-| Places | Symmetrical, centered interiors (altar on the axis), slow push-in. |
-| Devotional objects | Statue/relic in the foreground, praying crowd soft in the background. |
-| Text on screen | Only the lower-thirds. No logo or watermark. No captions, no title cards, no burned subtitles. |
-| Motion | Slow Ken Burns on stills (push-in or drift), long holds, soft crossfades. |
+| Watermark | "Christian Way Center" logo, top-left, full opacity, every shot |
+| Lower-third | Thin gold vertical bar + cream typewriter-serif text, lower-left. Format: `Place · detail` with a middle dot (e.g. "Our Lady of Sorrows Basilica · Chicago") |
+| Grade | Warm amber/gold, crushed blacks, heavy oval vignette on every shot |
+| Archive look | Sepia, film grain, dust, soft focus, vignette (Fatima 1917 crowd frame) |
+| Footage mix | Real news/event footage (candles, crowds, bishops), sacred interiors (wide, symmetrical, centered altar), statues in close profile, archival photos |
+| Motion | Slow push-ins and drifts (Ken Burns on stills), no fast cuts, no flashy transitions; cross-dissolves only |
+| Faces | Tight close-ups of praying faces lit by candlelight carry the emotion |
+| Text on screen | Lower-thirds only. No subtitles burned in, no big titles mid-video |
 
-## Sourcing rules
+## B. Shot plan by section
 
-- **Pope Leo XIV, Gemelli, Angelus:** real, licensed news footage/photos only (Vatican Media, agency pool). Never AI-generate a realistic Pope in a hospital — it would read as fake news.
-- **13th–14th century scenes:** no footage exists. Use public-domain paintings/frescoes of St. Peregrine and St. Philip Benizi, plus painterly illustrations in an old-master style, graded sepia/amber to match the historical treatment.
-- **Real places today:** Forlì basilica, Siena, Our Lady of Sorrows Chicago, Fatima — stock or licensed footage.
+**1. Cold Open — two nights before surgery**
+- Exterior of Gemelli hospital at dusk, slow push to upper-floor windows. LT: `Policlinico Gemelli · Rome`
+- Dimly lit hospital corridor (stock, generic — no patient faces)
+- Hard cross-dissolve to: medieval convent cloister at night, candle flicker
+- Painting/fresco of a friar kneeling before a crucifix (St. Peregrine iconography)
+- Sepia close-up of a raised hand (illustration or painting) on "struck that envoy across the face"
+- Split-frame: Pope Leo XIV photo / St. Peregrine painting → mirrors thumbnail
 
-## Shot plan
+**2. The Week the World Held Its Breath**
+- St. Peter's Square, Angelus crowd, wide aerial. LT: `St. Peter's Square · October 11, 2026`
+- Pope Leo at the window (official Vatican Media footage only)
+- Gemelli entrance, press, crowds waiting. LT: `Policlinico Gemelli · October 13, 2026`
+- Archive: John Paul II at Gemelli, 1981 (sepia grade). LT: `Gemelli · May 1981`
+- Text-free shot of bulletin being read on news (or a calm graphic of a page — keep it plain)
+- "October 13th" beat: fade to black, then the sepia Fatima 1917 crowd shading eyes. LT: `Cova da Iria · October 13, 1917`
+- Fatima candle vigil footage (crowds, bishops, close-ups of faces). LT: `Fátima · vigil of October 12, 2026` — **only if the footage is actually from that date**; otherwise `Fátima · candlelight procession`
+- Chiclayo cathedral exterior. LT: `Chiclayo · Peru`
+- Rosaries outside Gemelli, faces looking up
+- Statue/painting of St. Peregrine. LT: `St. Peregrine Laziosi · Servant of Mary`
+- Our Lady of Sorrows Basilica interior, wide symmetrical push-in. LT: `Our Lady of Sorrows Basilica · Chicago`
+- Votive candles before a St. Peregrine statue; slow rack focus
+- Chicago skyline at dusk → photo of young Robert Prevost (if licensed)
 
-| # | Section | Visuals | Lower-third |
-|---|---|---|---|
-| 1 | Cold open | Gemelli exterior at night, lit 10th-floor windows. Crowd at barriers with rosaries. Match-cut to painterly candlelit convent corridor, then the crucifix. | `Gemelli Hospital · Rome, October 13, 2026` |
-| 2a | The Angelus | St. Peter's Square, wide; the Pope at the window. Phones lighting up, news screens. | `St. Peter's Square · Angelus, October 11, 2026` |
-| 2b | Admission and surgery | Car arriving, Leo waving. Hospital entrance. Slow push on the window. | `Gemelli Hospital · Rome` |
-| 2c | Fatima link | Sepia 1917 crowd looking at the sun. Cut to the candlelight vigil, close faces. Bishops in procession. | `Cova da Iria · October 13, 1917` / `Fátima · vigil of October 12, 2026` |
-| 2d | World praying | Guadalupe basilica; Chiclayo cathedral and his photograph; a US parish Mass; rosaries on the pavement outside Gemelli. | `Chiclayo · Peru` |
-| 3 | The name | Painting of St. Peregrine. Our Lady of Sorrows interior, symmetrical push to the altar. Peregrine shrine and candles. | `Our Lady of Sorrows Basilica · Chicago` |
-| 4 | Forlì 1282 | Old map of Romagna. Medieval city walls. Battle illustration. Dante portrait + Inferno manuscript page. Closed church doors, silent bell tower. | `Forlì · May 1, 1282` |
-| 5 | The envoy | Portrait of St. Philip Benizi. Paris/Padua manuscripts. Mountain hermitage. Friar preaching in a medieval square, jeering crowd. | `Forlì · c. 1283` |
-| 6 | The slap | Painterly close-ups: raised hand, turned cheek, a friar walking away down a dirt road. Young man kneeling in the dust. | — |
-| 7 | Siena | Siena skyline. Painting of the Virgin's apparition. Servite habit. Rule of St. Augustine manuscript, cut to a young Robert Prevost in Augustinian habit (archival). | `Siena` |
-| 8 | Standing penance | Friar standing in a confessional. Poor and sick at the convent door. Close on swollen legs (tasteful, painterly). | `Forlì` |
-| 9 | The wound | Medieval surgical tools, fire. Candlelit corridor, dragging steps. Crucifix, low angle. Painting of Christ leaning from the cross toward Peregrine. Morning light on the leg. | — |
-| 10 | Three hundred years | Basilica of San Pellegrino exterior, then the urn. Canonization document. Calendar card for the 300th. Chicago novena archival photos. Hospital corridor at night. Philip Benizi portrait. | `Basilica of San Pellegrino · Forlì` |
-| 11 | Why him | Quick callbacks: slap → kneeling; crucifix night → the Pope at the Angelus; montage of Fatima, Chiclayo and Chicago prayers. | — |
-| 12 | Prayer + CTA | Slow push on a St. Peregrine statue with candles. Hands holding a rosary beside a hospital bed. Hold on the crucifix for the Amen. | — |
+**3. A City Without Sacraments**
+- Aerial/old map of Forlì and Romagna. LT: `Forlì · Romagna, late 13th century`
+- Medieval battle/faction illustrations (Guelphs vs Ghibellines)
+- Locked church doors, silent bell tower (stylized, dark grade) on "interdict"
+- Portrait-style painting of a young nobleman (generic medieval) for young Peregrine
+
+**4. The Man Who Refused to Be Pope**
+- Florence skyline / medieval Florence engraving. LT: `Florence · 1233`
+- Medieval university / anatomy manuscript (Paris, Padua)
+- Painting of the Seven Holy Founders of the Servites
+- Friar working in a garden (stock or painting)
+- Portrait of St. Philip Benizi. LT: `St. Philip Benizi · Prior General of the Servites`
+- Conclave imagery: Viterbo papal palace. LT: `Viterbo · conclave of 1268–1271`
+- Misty Apennine mountains, slow drift on "he ran"
+
+**5. The Slap**
+- Medieval street/market recreation or paintings of crowds
+- Painting of St. Philip Benizi being driven out (Servite art exists — check licensing)
+- Close-up freeze on the strike, then cut to black for one beat (pattern interrupt)
+- Dusty country road outside city walls, low sun
+- Painting of a kneeling young man before a friar / embrace
+
+**6. The Pilgrim Sets Out**
+- Marian apparition painting (Servite tradition, St. Peregrine)
+- Road to Siena, Tuscan hills at golden hour. LT: `Siena`
+- Servite habit / friars in black habits (historic photo or painting)
+- Painting of St. Augustine writing. LT: `St. Augustine of Hippo`
+- Photo of Pope Leo XIV in Augustinian context (official/licensed only)
+
+**7. The Friar Who Would Not Sit Down**
+- Forlì city gates/old streets
+- Friar hearing confession, visiting the sick (paintings)
+- Lone standing figure silhouette in a chapel, candle beside him
+
+**8. The Night Before Surgery**
+- Close-up of an old painting of Peregrine's leg wound (traditional iconography)
+- Medieval surgical instruments (museum photos)
+- Chapter room / crucifix in candlelight, slow push-in
+- The key image: painting of Christ leaning down from the cross to touch Peregrine (common in Servite art)
+- Morning light through a window, dissolve on "the wound was gone"
+
+**9. Eighty Years and Three Centuries**
+- Basilica of San Pellegrino, Forlì, exterior and interior. LT: `Basilica of San Pellegrino · Forlì`
+- The saint's urn/reliquary
+- Portrait of Pope Benedict XIII. LT: `Pope Benedict XIII · canonization, 1726`
+- Todi skyline. LT: `Todi · 1285`
+- Side-by-side paintings of St. Peregrine and St. Philip Benizi on "both of them are on the altars"
+
+**10. Why This Saint, for This Pope**
+- Forgiveness: road image returns, desaturated → warm
+- Surrender: crucifix close-up, then Pope Leo at window
+- Healing hand: surgeons' hands (generic stock, no identifiable patients), then the Christ-touching-leg painting
+- Montage: Fatima candles → Chiclayo → Chicago basilica → Gemelli windows
+
+**11. The Wound No One Sees**
+- Waiting room chair, empty; hands holding a rosary; window light
+- Candlelit faces from the vigil (emotional close-ups)
+
+**12. Prayer and Call to Action**
+- Slow push-in on St. Peregrine statue for the whole prayer, candles in foreground
+- Our Lady of Fatima statue on "Our Lady of Fatima, Mother of the Church"
+- Final: Our Lady of Sorrows Basilica wide shot, fade to logo
+
+## C. Rights & accuracy checklist
+- Vatican Media / news footage: use licensed clips or brief, fair-use-safe excerpts
+- Date-stamped lower-thirds (e.g. "vigil of October 12, 2026") only on footage verified from that event
+- No identifiable patients in hospital/medical stock
+- Label recreations or illustrative stock honestly where they could be mistaken for the real event
