@@ -4,14 +4,13 @@
 
 | Element | Spec |
 |---|---|
-| Watermark | "CHRISTIAN WAY CENTER" logo, top-left, every frame. White "CHRISTIAN", gold "WAY", small spaced "CENTER". |
 | Lower-third | Thin gold vertical bar + white typewriter-serif text (e.g. Special Elite / American Typewriter), bottom-left at ~80% height. Format: `Place · detail` with a middle dot. Sentence case. No box, no background. |
 | Grade | Warm, low-key. Gold/amber highlights, crushed blacks, heavy oval vignette. |
 | Historical footage | Sepia, film grain, dust and scratches, soft focus, darker vignette. |
 | Present-day footage | Real news/event footage. Tight faces, shallow depth of field, candlelight, night tones. |
 | Places | Symmetrical, centered interiors (altar on the axis), slow push-in. |
 | Devotional objects | Statue/relic in the foreground, praying crowd soft in the background. |
-| Text on screen | Only the lower-thirds. No captions, no title cards, no burned subtitles. |
+| Text on screen | Only the lower-thirds. No logo or watermark. No captions, no title cards, no burned subtitles. |
 | Motion | Slow Ken Burns on stills (push-in or drift), long holds, soft crossfades. |
 
 ## Sourcing rules
@@ -38,4 +37,4 @@
 | 9 | The wound | Medieval surgical tools, fire. Candlelit corridor, dragging steps. Crucifix, low angle. Painting of Christ leaning from the cross toward Peregrine. Morning light on the leg. | — |
 | 10 | Three hundred years | Basilica of San Pellegrino exterior, then the urn. Canonization document. Calendar card for the 300th. Chicago novena archival photos. Hospital corridor at night. Philip Benizi portrait. | `Basilica of San Pellegrino · Forlì` |
 | 11 | Why him | Quick callbacks: slap → kneeling; crucifix night → the Pope at the Angelus; montage of Fatima, Chiclayo and Chicago prayers. | — |
-| 12 | Prayer + CTA | Slow push on a St. Peregrine statue with candles. Hands holding a rosary beside a hospital bed. Hold on the crucifix for the Amen. End on the "Walk with us" banner art. | — |
+| 12 | Prayer + CTA | Slow push on a St. Peregrine statue with candles. Hands holding a rosary beside a hospital bed. Hold on the crucifix for the Amen. | — |
