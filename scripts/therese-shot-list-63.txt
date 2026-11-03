@@ -1,0 +1,330 @@
+SHOT LIST: Why Saint Thérèse of Lisieux's FINAL Promise Is Unfolding Right NOW
+63 shots · 16:9 · 20:00 · timecodes are approximate (160 wpm)
+
+GLOBAL RULES (apply to every prompt)
+- Look: muted sepia and black-and-white base, warm candle-amber highlights, red (#B3261E) for alarm and labels, yellow (#E8B931) for numbers. Film grain, soft vignette, slow push-ins.
+- Type: serif for dates and places, bold white sans-serif for headings, typewriter font for chapter cards, a small red tracking-spaced label above every heading.
+- Carmelite accuracy: brown habit, brown scapular, black veil (professed nun), white wimple. White cloak only at ceremonies. No lace, no jewellery.
+- Real people (Thérèse, Louis Martin, popes, Mother Teresa, Dorothy Day): use public-domain or licensed photos for faces. AI shots show them only from behind, as hands or silhouettes, or out of focus, so you never fake a real person's face.
+- Disclosure: tick YouTube's "altered or synthetic content" box, and use a small "Re-enactment" tag on every photoreal AI shot.
+- Sources on screen: small grey citation in the bottom-right corner whenever a document is quoted.
+
+---
+
+01 | 00:00–00:08 | AI VIDEO
+VO: "In 1897, a young nun lay dying… until the end of the world."
+VISUAL: Night, 1890s convent corridor in Normandy, stone floor, one candle at the far end. Slow dolly toward a half-open infirmary door; a thin brown sleeve and a white-knuckled hand gripping a small crucifix rest on a white sheet. Dust in the candlelight. Hold on the hand.
+OVERLAY: "1897 · LISIEUX, FRANCE" in serif, bottom left. Small tag "Re-enactment".
+SFX: low drone, a single bell toll.
+
+02 | 00:08–00:20 | AI + GFX
+VO: "Ten years later, the first young man she had promised to help was dead… her own father had once been confined."
+VISUAL: Hard cut to a 1900s hospital ward in Caen: tall windows, iron beds, white curtains, cold grey light. An empty bed with a folded blanket. The camera drifts to a window.
+GFX: A red "1897" stamp slides right and becomes "1907", with a "+10 YEARS" counter between them. A second line types on: "Same hospital as her father."
+SFX: clock tick, sharp whoosh on the date change.
+
+03 | 00:20–00:28 | GFX
+VO: "So either her promise failed… Or something much stranger is going on."
+VISUAL: A split screen. Left: a cracked wax seal in red labelled "FAILED?". Right: a faint glowing white rose labelled "OR…?". A thin line between them flickers.
+SFX: a heartbeat thump on each word.
+
+04 | 00:28–00:45 | AI + OVERLAY (montage)
+VO: "Because this year, in 2026, people are still lining up… kitchen tables all over the world."
+VISUAL: (A) Modern church interior, a queue of ordinary people (an older woman, a man in a work jacket, a nurse in scrubs) seen from behind, moving toward a golden reliquary. (B) Close-up of a hand placing a single white rose on a pale marble slab. (C) A kitchen table at night: rosary beads, a mug, a phone with a family photo.
+OVERLAY: "KILDARE, IRELAND · JULY 2026" lower-third on A. "ROME · 2025" on B.
+MOTION: three quick cuts of 5 to 6 seconds each, a soft match-cut on the white rose.
+
+05 | 00:45–00:58 | GFX
+VO: "The reason comes down to one sentence… about someone in your own family."
+VISUAL: An aged notebook page fills the frame. One handwritten line is covered by a black redaction bar that pulses. The camera pushes in.
+GFX: Red label "THE LINE ALMOST NOBODY QUOTES". Small text: "Revealed later in this video".
+SFX: a paper rustle, then a low riser.
+
+06 | 00:58–01:12 | GFX (INTERACTIVE)
+VO: "But first, I want your gut answer. Did her promise fail?… whether you were right."
+VISUAL: Dark background with two large animated buttons, "YES" in red and "NO" in white, and a blinking cursor.
+GFX: An animated comment bubble: "Type YES or NO in the comments 👇". A small note: "Remember your answer."
+SFX: a soft click on each button.
+
+07 | 01:12–01:16 | CHAPTER CARD
+VISUAL: Slow push across convent window bars at dusk, with the typewriter title "CHAPTER 1 · THE PROMISE" on a black bar.
+SFX: typewriter keystrokes.
+
+08 | 01:16–01:22 | GFX (DATE CARD)
+VO: "The 17th of July, 1897."
+VISUAL: A calendar card with a red header, "JULY 1897", a large serif "17", and "Saturday", over a blurred black-and-white convent infirmary.
+LOWER-THIRD: "Carmel of Lisieux · Infirmary".
+NOTE: 17 July 1897 was a Saturday. Check it again before export.
+
+09 | 01:22–01:36 | AI VIDEO
+VO: "A narrow bed in a convent infirmary… Every breath is work."
+VISUAL: A small, plain infirmary room. A narrow iron bed with pale curtains drawn halfway, a wooden crucifix on the wall, two straw-seated chairs. A young nun in a brown habit and black veil lies propped on pillows, seen from behind the curtain so her face stays soft and out of focus. Her chest rises with effort. Summer light through shutters.
+OVERLAY: Yellow numbered pop-ups: "1 Narrow curtained bed · 2 Crucifix · 3 Chairs for the sisters".
+SFX: laboured breathing under the music.
+
+10 | 01:36–01:46 | AI VIDEO
+VO: "Beside the bed sits her older sister Pauline… writing down every word."
+VISUAL: Close-up of an older nun's hands (brown habit) holding a small notebook with a yellowed cover, writing in pencil. The tip of the pencil fills the frame. Pull back to her silhouette by the bedside.
+LOWER-THIRD: "PAULINE MARTIN · Mother Agnes of Jesus · her sister".
+
+11 | 01:46–02:02 | AI + GFX
+VO: "That afternoon, Thérèse says something strange… 'I want to spend my heaven doing good on earth.'"
+VISUAL: Extreme close-up of the pencil writing the French words in looping handwriting. The ink glows briefly.
+GFX: The quote animates in serif, word by word, centred: "I want to spend my heaven doing good on earth." Citation: "Yellow Notebook, 17.7.1897".
+SFX: a soft choral swell, then silence.
+
+12 | 02:02–02:26 | GFX
+VO: "Millions of people know that line… or whether it ran out a long time ago."
+VISUAL: (A) A wall of vintage holy cards fans out with the same quote printed on each. (B) Snap back to the notebook page: the famous line is highlighted, and the line below it is covered by the red redaction bar. A label "CONDITION" points to it with an arrow.
+GFX: Two tick-boxes: "Still running?" / "Expired?". Both stay unticked.
+
+13 | 02:26–02:40 | AI VIDEO
+VO: "I'll show you that line… didn't believe what everyone thought she believed."
+VISUAL: Slow push toward the curtained bed. The candle beside it gutters and almost goes out. The frame darkens to near black.
+OVERLAY: The text "THE SECRET SHE WAS CARRYING" fades in, then cuts away.
+SFX: a held note that stops abruptly.
+
+14 | 02:40–02:44 | CHAPTER CARD
+VISUAL: A starless night sky over the dark roofline of the Lisieux Carmel, with the typewriter title "CHAPTER 2 · THE DARK".
+
+15 | 02:44–02:58 | GFX (FAMILY TREE)
+VO: "She was born Thérèse Martin in 1873… died of breast cancer."
+VISUAL: A sepia family tree builds: Louis and Zélie at the top, nine small portrait circles below. Four circles fade to grey for the children who died young. The last circle glows: "THÉRÈSE · b. 1873 · Alençon". Zélie's circle dims with "† 1877".
+MAP INSET: a pin on Alençon in Normandy.
+
+16 | 02:58–03:12 | AI + GFX
+VO: "At fifteen, after appeals that went all the way to the Pope… She never came out again."
+VISUAL: A heavy wooden enclosure door in a stone wall swings shut from inside, in slow motion. The shadow of a young girl in a dark dress is cut off as it closes. Dust falls.
+GFX: Quick text stack: "Bishop ✕ · Pope ✕ · Permission ✓ · 9 April 1888".
+SFX: a deep wooden door thud with reverb.
+
+17 | 03:12–03:30 | AI + GFX
+VO: "Inside those walls she found what she called her little way… Small things, done with love."
+VISUAL: A stone staircase. A parent's arms lift a small child and carry them up the stairs, shot from below in warm light. Dissolve to a nun's hands folding laundry.
+GFX: Red small label "THE LITTLE WAY" with a bold white heading "CARRIED, NOT CLIMBING".
+
+18 | 03:30–03:50 | AI VIDEO
+VO: "It sounds sweet. It wasn't. There was an old, sick sister… never once guessed what it cost her."
+VISUAL: A dim convent cloister at evening. A young nun (brown habit, black veil, seen from behind) steadies a bent, elderly nun by the arm as they shuffle along the cloister from the chapel. The old nun's face is stern. The young nun's hand is patient.
+OVERLAY: The word "SWEET" in white is struck through with a red line.
+
+19 | 03:50–04:08 | AI + OVERLAY
+VO: "There was another sister whose company Thérèse found almost unbearable… every single day."
+VISUAL: A recreation room in a Carmel: two nuns at a table, one giving the other a warm smile. Under the table, the smiling nun's hands are clenched. A pattern interrupt freezes the frame.
+OVERLAY: Three words stamp in one by one: "NO VISIONS. NO MIRACLES. JUST PATIENCE."
+
+20 | 04:08–04:14 | GFX (DATE CARD)
+VO: "Then came the night of Holy Thursday, 1896."
+VISUAL: A vintage moonlit sky with clouds over a convent roofline.
+TEXT: "HOLY THURSDAY · 2 APRIL 1896" in one consistent font, fully inside the safe area.
+NOTE: This corrects the reference channel's "April 3" error.
+
+21 | 04:14–04:24 | AI VIDEO
+VO: "She went to bed. She coughed. And there was blood… everybody knew what that meant."
+VISUAL: A dark cell, a narrow straw bed. Silhouette of a nun sitting up, a white handkerchief raised to her mouth. Cut to the morning: a window shutter opens and cold light reveals a red stain on the handkerchief resting on a wooden stool.
+SFX: one sharp cough, then silence.
+LOWER-THIRD: "Tuberculosis · usually fatal in the 1890s".
+
+22 | 04:24–04:50 | AI + GFX
+VO: "But the blood wasn't the worst of it… It would bring her nothingness."
+VISUAL: The camera rises above the convent to a night sky full of stars. The stars go out one by one until the frame is black.
+GFX: Whisper-text drifts across in faint grey serif: "…nothingness…". Citation: "Story of a Soul, Manuscript C".
+SFX: a low wind, whispers mixed very quietly.
+
+23 | 04:50–05:08 | GFX
+VO: "That darkness never lifted… promising something she wasn't even sure was real?"
+VISUAL: A timeline bar from "Easter 1896" to "July 1897" filled solid black, with a small candle icon at the July end marked "THE PROMISE".
+GFX: A large question fades up: "FAITH… or the last hope of a dying girl?"
+
+24 | 05:08–05:22 | AI VIDEO
+VO: "She answered that herself… She promised because she chose to trust."
+VISUAL: In the dark cell, one candle is lit by a steady hand. The flame grows. Warm light spreads across the wall, onto a small crucifix.
+OVERLAY: Serif text: "Not because she could see. Because she chose to trust."
+
+25 | 05:22–05:36 | GFX (INTERACTIVE)
+VO: "Have you ever prayed for something and felt absolutely nothing?… Subscribe…"
+VISUAL: A soft candle background with an animated comment bubble: "Have you ever prayed and felt nothing? Tell me 👇". Then the subscribe button pulses, with a bell animation.
+
+26 | 05:36–05:40 | CHAPTER CARD
+VISUAL: A stack of old letters tied with string on a wooden table, with the typewriter title "CHAPTER 3 · THE FIRST BROTHER".
+
+27 | 05:40–05:58 | AI + GFX
+VO: "On the 15th of October, 1895, a letter arrived at the Carmel… a nun who would pray for him."
+VISUAL: A gloved postman's hand slides a letter through a convent turn, the revolving hatch used in enclosed convents. Close-up of the envelope.
+GFX: A dated name card: "MAURICE BELLIÈRE · 21 · seminarian · 15 Oct 1895". The silhouette portrait has a red outline.
+ACCURACY: The revolving turn and the grille are period-accurate features of a Carmelite convent.
+
+28 | 05:58–06:14 | GFX
+VO: "The prioress was Thérèse's own sister Pauline… she took him seriously."
+VISUAL: An organigram: "PAULINE (Prioress)" with an arrow to "THÉRÈSE", and a second arrow to "MAURICE", labelled "spiritual brother".
+GFX: A side box shows two small grey cradles marked "Two brothers · died as babies", then a new glowing circle: "A brother again".
+
+29 | 06:14–06:36 | AI + GFX
+VO: "A year later, she was given a second brother… the only time she ever laid eyes on either of her brothers."
+VISUAL: A convent parlour: a heavy black iron grille with a curtain behind it. On the near side, a young priest in a black cassock sits on a wooden chair, seen from behind. Beyond the grille, a nun's veiled outline.
+GFX: Name card "ADOLPHE ROULLAND · Paris Foreign Missions · ordained June 1896". Date tag: "July 1896".
+
+30 | 06:36–06:48 | GFX (MAP)
+VO: "A few weeks later, as he sailed for the province of Sichuan… 20th of August, 1896."
+VISUAL: An animated sea route on a vintage map, from France (Marseille) to China, ending at a pin on "SICHUAN". An inset of a small painted holy picture with the date stamp "20 AUG 1896".
+
+31 | 06:48–07:20 | AI + GFX
+VO: "And this is the part almost everyone misses… she wanted to save souls even after her death."
+VISUAL: (A) Two letters lie side by side on a desk, with an "M.B." tag and an "A.R." tag. A light beam picks them out. (B) A nun's hand in pencil writes the date "14 juillet 1897". (C) Cut to a modern Vatican document cover reading "C'est la confiance · 2023".
+GFX: A pull quote: "I am counting on not remaining idle in heaven." Citation: "Letter to Fr. Roulland, 14.7.1897". Red label: "QUOTED BY POPE FRANCIS, 2023".
+
+32 | 07:20–07:36 | AI + GFX
+VO: "The very last letter she ever wrote… 'My God, I love you.' And she was gone."
+VISUAL: An envelope addressed in pencil, dated "10 août 1897", is sealed. Cut to the infirmary at dusk: a hand loosens its grip on a crucifix and the curtain moves gently.
+GFX: Date card "30 SEPTEMBER 1897 · THURSDAY". The quote "My God, I love you" fades in, then the screen goes black.
+
+33 | 07:36–07:56 | GFX
+VO: "So now her promise has names attached to it… it won't be easy to hear."
+VISUAL: A detective-style board on dark cork: the 1897 notebook page in the centre, red string out to two name cards. Roulland's card turns green. Maurice's card gets a red "?" stamp and the camera pushes in on it.
+OVERLAY: "REMEMBER THIS NAME".
+
+34 | 07:56–08:00 | CHAPTER CARD
+VISUAL: An old courtroom-style oak table with documents and a quill, with the typewriter title "CHAPTER 4 · ON TRIAL".
+
+35 | 08:00–08:22 | AI + GFX
+VO: "It should have ended there… It was reprinted. Then reprinted again. Then again."
+VISUAL: Notebooks slide into a wooden drawer and the drawer closes. Then it bursts open into an 1898 printing press: a small book titled "Histoire d'une âme" rolls off, the stacks multiply, and copies are handed hand to hand.
+GFX: A yellow counter box that reads "1898 · FIRST PRINTING" and then flips to "REPRINTED… REPRINTED… REPRINTED". Use no numbers, since the script gives none.
+
+36 | 08:22–08:40 | AI + OVERLAY
+VO: "Then the letters started coming… soldiers carried her picture into the trenches."
+VISUAL: Envelopes rain down onto a convent table until they cover it. Cut to a muddy First World War trench at dawn: a soldier's hand tucks a small holy card of a nun into his breast pocket.
+OVERLAY: "LETTERS BY THE THOUSAND". Lower-third: "1914–1918".
+
+37 | 08:40–09:08 | GFX
+VO: "But the Church doesn't run on letters… Two more before she could be declared a saint, in 1925."
+VISUAL: A legal-document look: a sworn testimony page with a wax seal, then an X-ray-style medical file.
+GFX: A scoreboard ledger: "CURES ACCEPTED → BLESSED (1923): 2 ✓ · SAINT (1925): 2 ✓". A red label: "UNDER OATH".
+SFX: a stamp thud on each tick.
+
+38 | 09:08–09:34 | AI + GFX
+VO: "Rome even had her grave opened, in 1910… on what kept happening after it."
+VISUAL: An overcast town cemetery in 1910. Men in dark coats and clergy stand around an opened grave, seen at a respectful distance with no remains shown. Light rain.
+GFX: A myth-buster stamp: "INCORRUPT?" with a big red "✕", then "ONLY BONES WERE FOUND". A date tag: "1910".
+
+39 | 09:34–09:54 | GFX
+VO: "And it passed… By every official measure, the promise was being kept."
+VISUAL: A checklist over St Peter's Basilica at golden hour: "✓ Blessed 1923 · ✓ Saint 1925 · ✓ Patron of the Missions 1927 · ✓ Doctor of the Church 1997". A world map lights up with mission dots.
+
+40 | 09:54–10:08 | GFX
+VO: "Except for one name that never appears anywhere in that record… his life was falling apart."
+VISUAL: The checklist zooms out to an official register page. The camera scans down the names, then a gap where one line is blank. "MAURICE BELLIÈRE" writes itself into the gap in red, and the page cracks.
+SFX: a glass-crack sound and a heartbeat.
+
+41 | 10:08–10:12 | CHAPTER CARD
+VISUAL: A rain-streaked window of an old stone hospital, with the typewriter title "CHAPTER 5 · THE WARD IN CAEN".
+
+42 | 10:12–10:26 | AI VIDEO
+VO: "Maurice Bellière did become a missionary priest in Africa… attacked his nerves, and then his mind."
+VISUAL: (A) A young missionary priest in a white robe, seen from behind, walks a dusty African road at sunset. (B) The same figure, now in a dark travelling coat, sits slumped in a train compartment heading to Normandy, his hand trembling on his knee.
+LOWER-THIRD: "Missionary priest · Africa".
+
+43 | 10:26–10:34 | GFX (MAP)
+VO: "On the 8th of June, 1907, he was admitted to the Bon Sauveur hospital in Caen."
+VISUAL: A muted map of France with a red pin dropping on Caen. Label card: "BON SAUVEUR · CAEN · 8 June 1907".
+NOTE: Keep the inset map clean, with no stray dots.
+
+44 | 10:34–10:58 | ARCHIVAL + GFX (PATTERN INTERRUPT)
+VO: "Wait. Hear the name of that place again… the deepest grief of her life."
+VISUAL: Freeze-frame, desaturate, and a record-scratch stop. The words "BON SAUVEUR" enlarge on screen. Split screen: left, a public-domain photograph of Louis Martin with the name card "LOUIS MARTIN · her father". Right, a period postcard of the Bon Sauveur in Caen.
+GFX: Red lines connect the two to the same pin: "SAME HOSPITAL".
+
+45 | 10:58–11:22 | AI + GFX
+VO: "And now the brother she'd promised to help was lying in the very same place… doing good on earth."
+VISUAL: A long, quiet hospital corridor with tall windows. One door is ajar; a narrow bed is visible and a still hand rests on the blanket. No face. Respectful and calm, not a horror asylum.
+GFX: Timeline: "17 JULY 1897 · the promise" to "14 JULY 1907 · Maurice dies, aged 33, in Caen, his birthplace", with a "10 years, almost to the week" bracket.
+
+46 | 11:22–11:38 | GFX (INTERACTIVE)
+VO: "So stop for a second and be honest… Has your answer changed?"
+VISUAL: The YES/NO buttons from shot 06 return, with a ghosted "Your first answer" label above them.
+GFX: Comment bubble: "Has your answer changed? Tell me 👇".
+
+47 | 11:38–11:56 | GFX
+VO: "Here's what the record actually shows… keep working for souls."
+VISUAL: An old contract-style document headed "WHAT SHE PROMISED". Struck through in red: "An easy life ✕", "No hospitals ✕". Written in black ink: "Not idle in heaven ✓", "Keep working for souls ✓".
+
+48 | 11:56–12:24 | AI + GFX
+VO: "And the one place on earth where her own family had suffered most… Almost. Because… It was us."
+VISUAL: Two sets of footprints on a stone hospital floor, one older and fading and one newer, walking the same path side by side. Pause. The lights cut to black on "Almost." A single light returns on "It was us", reflecting on a modern phone screen showing a scrolling feed of rose cards.
+OVERLAY: "Nobody can prove she was there." in small italics. Then large: "IT WAS US."
+
+49 | 12:24–12:28 | CHAPTER CARD
+VISUAL: Scattered printed prayer cards with roses, with the typewriter title "CHAPTER 6 · THE MYTH".
+
+50 | 12:28–12:48 | AI + GFX (INTERACTIVE)
+VO: "You've probably seen the rose novena… Type 'rose' in the comments if you have."
+VISUAL: A hand holds a modern laminated novena card with a rose. Nine small candle icons light up one by one, counting nine days.
+GFX: Comment bubble with a 🌹: "Have you prayed it? Type ROSE 👇".
+
+51 | 12:48–13:22 | GFX
+VO: "Now here's what the record says… They were never a receipt."
+VISUAL: A two-row timeline. Top row, in red: "ROSE NOVENA · Fr. Putigan SJ · Dec 1925". Bottom row, in gold: "THE PROMISE · notebook 17 Jul 1897 + letter 14 Jul 1897". Holy cards blow away like leaves while the 1897 documents stay pinned.
+GFX: A final line in serif: "The roses were a picture of the good. Never a receipt." A receipt slip tears in two.
+
+52 | 13:22–13:26 | CHAPTER CARD
+VISUAL: A modern church queue in soft focus, with the typewriter title "CHAPTER 7 · RIGHT NOW".
+
+53 | 13:26–13:52 | ARCHIVAL + GFX
+VO: "And the strongest evidence was never a rose anyway… published an entire book about her."
+VISUAL: A split-panel witness wall. Panel 1: a licensed archival photo of Mother Teresa with the card "Took her name after Thérèse". Panel 2: an archival photo of Dorothy Day with the card "First heard her name in a maternity ward · Book, 1960".
+GFX: Red label "THE WITNESSES".
+
+54 | 13:52–14:06 | AI + GFX
+VO: "In 2008, astronaut Ron Garan carried a small relic… two hundred and seventeen times."
+VISUAL: The space shuttle in orbit above a blue Earth, with sunrise on the horizon. Inside, a small reliquary-style locket floats gently in zero-g in front of a window.
+GFX: A yellow orbit counter spins quickly from 0 to "217 ORBITS". Lower-third: "STS-124 · Discovery · 2008".
+
+55 | 14:06–14:46 | AI + GFX
+VO: "Then there was Jorge Bergoglio… with its date: the 17th of July, 1897."
+VISUAL: (A) A modest Buenos Aires office desk with a framed picture of a young nun and a glass vase of white roses in front of it. (B) A sunny Vatican garden path: a gardener's gloved hand offers a freshly cut white rose. (C) A document cover reading "C'est la confiance · 15 October 2023".
+GFX: Date tags "8 SEPT 2013" and "OCT 2023". A highlighted line: "…the 17th of July, 1897."
+
+56 | 14:46–14:58 | AI + GFX
+VO: "On the 10th of May, 2025… Nobody had to explain what it meant."
+VISUAL: A Roman basilica side aisle with a simple marble tomb slab. A white-sleeved hand lays a single white rose on it. Do not show the face.
+GFX: Date card "10 MAY 2025 · Basilica of St Mary Major, Rome". Lower-third: "Pope Leo XIV · two days after his election".
+
+57 | 14:58–15:40 | AI + GFX (MONTAGE)
+VO: "That October, on her feast day, her relics began a tour… this year."
+VISUAL: (A) An Art Deco church tower at dawn, labelled "Royal Oak, Michigan · 1 Oct 2025". (B) A hilltop basilica with twin spires above autumn trees, labelled "Holy Hill, Wisconsin". (C) A small stone Carmelite church in Ireland with three reliquaries side by side, labelled "Kildare · 15–16 July 2026 · with Louis & Zélie". (D) A slow pan down a queue: a father, a widow, a nurse in scrubs, a grandmother clutching beads.
+GFX: A yellow counter for Holy Hill counts up to "≈26,000 IN 4 DAYS". The words "NOT A MUSEUM. A LINE." stamp on screen.
+
+58 | 15:40–15:56 | GFX
+VO: "Most famous promises fade within a generation… So why won't it die?"
+VISUAL: A timeline ruler stretches from "1897" to "2026" with the counter "129 YEARS". Other promises fade to grey along the ruler while one gold line keeps going.
+GFX: The large question "WHY WON'T IT DIE?" with a red underline.
+
+59 | 15:56–16:00 | CHAPTER CARD
+VISUAL: The redacted notebook page from shot 05 returns, with the typewriter title "CHAPTER 8 · THE LINE NOBODY QUOTES".
+
+60 | 16:00–16:34 | AI + GFX (PAYOFF)
+VO: "Here it is… whether the condition is still true."
+VISUAL: The black redaction bar burns away from the centre like paper catching fire, revealing the handwritten line underneath. Push in.
+GFX: The quote in large serif: "I can't rest as long as there are souls to be saved." French subtitle: "je ne peux pas me reposer tant qu'il y aura des âmes à sauver". Citation: "Yellow Notebook, 17.7.1897". Then a "CONDITION" badge and a status light: "STILL TRUE?" blinking amber.
+SFX: a choir hit as the bar burns away, then silence.
+
+61 | 16:34–17:40 | AI + GFX (INTERACTIVE PEAK)
+VO: "Look at your own family… Let's pray for each other's families… One person at a time."
+VISUAL: (A) A family dinner table at night with one empty chair, a phone face-down on its placemat. (B) Quick flash-backs: Maurice's hospital corridor (shot 45) and the dark cell candle (shot 24). (C) A candle passed from hand to hand down a line of people, each flame lighting the next.
+GFX: The status light from shot 60 turns solid green: "CONDITION: STILL TRUE". Answer card: "DID IT FAIL? → NO." Then a comment bubble: "Type their first name, or 'Thérèse' 👇". A share icon pulses: "Send this to one person praying for someone."
+
+62 | 17:40–18:14 | GFX OVER AI
+VO: "So what do you actually do with her promise this week?… her little way in its purest form."
+VISUAL: An AI background of a weekday Mass seen from the back pews: a near-empty church, morning light, a lone older person kneeling.
+GFX: Red label "THE LITTLE WAY" with the heading "THIS WEEK" and an animated checklist that ticks in time with the narration: "☐ One decade of the rosary, every evening · ☐ One weekday Mass, offered quietly · ☐ Confession, even after years · ☐ One hidden kindness to the hardest person".
+NOTE: Show a Mass setting here, not a monstrance or adoration setting.
+
+63 | 18:14–20:00 | AI + GFX + END SCREEN
+VO: "Now go back one last time to that hospital in Caen… God bless you, and good night."
+VISUAL:
+(A) 18:14 The hospital corridor from shot 45 returns at dawn. Warm light now creeps across the floor toward the narrow bed.
+(B) 18:40 The YES/NO card from shot 06 reappears, and "NO" glows: "She never promised a life without the ward."
+(C) 18:58 A montage of the four "woman who…" lines: the dark cell candle, the two letters, the Caen corridor. Each holds about 4 seconds.
+(D) 19:15 Teaser: a 1934 Vilnius artist's studio. An easel is seen from behind, and a nun in a dark habit stands beside the painter, pointing at the canvas. The canvas stays turned away from camera. Date tag "VILNIUS · 1934". Text: "Restricted for almost 20 years. WHY?"
+(E) 19:25–20:00 End screen over a slow candle flame: next-video tile on the left, subscribe button on the right. On-screen text: "Send this to someone you love tonight."
+SFX: the music resolves, the final bell toll from shot 01, then the candle crackle under the end screen.
