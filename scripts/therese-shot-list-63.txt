@@ -54,7 +54,7 @@ SFX: typewriter keystrokes.
 VO: "The 17th of July, 1897."
 VISUAL: A calendar card with a red header, "JULY 1897", a large serif "17", and "Saturday", over a blurred black-and-white convent infirmary.
 LOWER-THIRD: "Carmel of Lisieux · Infirmary".
-NOTE: 17 July 1897 was a Saturday. Check it again before export.
+NOTE: 17 July 1897 was a Saturday (checked).
 
 09 | 01:22–01:36 | AI VIDEO
 VO: "A narrow bed in a convent infirmary… Every breath is work."
