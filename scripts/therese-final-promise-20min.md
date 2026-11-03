@@ -112,7 +112,7 @@ That is what *unfolding* means. It is not a prophecy coming true on a date. It i
 
 But we still have not answered the question. Why does it not stop? To answer it, we have to go back to one of the two brothers. I told you the answer was hidden in a hospital in Caen.
 
-Maurice Bellière did become a missionary. He became a missionary priest in Africa. Then his health broke down. He came home to Normandy very ill, with an illness that attacked his nerves and his mind. On the 8th of June, 1907, he was admitted to the Bon Sauveur hospital in Caen.
+Maurice Bellière did become a missionary priest in Africa. Then his health broke down. He came home to Normandy very ill, with an illness that attacked his nerves and his mind. On the 8th of June, 1907, he was admitted to the Bon Sauveur hospital in Caen.
 
 The Bon Sauveur in Caen was the same hospital where Louis Martin, Thérèse's own father, had been cared for in the years his mind failed. Thérèse had prayed for her father behind convent walls while he lay in that place. Now her spiritual brother lay in the same place.
 
@@ -132,7 +132,7 @@ So here is the answer, and it is simpler than any prophecy.
 
 Her promise is unfolding right now because the condition she attached to it is still true. She said she could not rest as long as there were souls to be saved. Look around your own kitchen table. Look at your own family. The condition has not run out. Not in 1907, not in 1925, not in 2026.
 
-And it unfolds the way she first gave it, one person at a time. Not to crowds, but to a seminarian who felt too weak and a young priest heading for a country he had never seen. The crowds came later. The promise was always personal.
+And it unfolds the way she first gave it, one person at a time. Not to crowds, but to a seminarian asking for one nun's prayers and a young priest heading for a country he had never seen. The crowds came later. The promise was always personal.
 
 That is why it lasts. A promise to the world can be checked once and filed away. A promise to each person has to be kept again every time someone new asks.
 
@@ -188,7 +188,7 @@ And maybe that is the best way to hear her promise tonight. Not as a story about
 
 ## 18:38 — Next video
 
-Thérèse took her religious name from the Holy Face of Jesus. A generation after her death, in 1934, another young nun, in Vilnius, sat beside a painter and told him how to paint Jesus as she said she had seen him. That painting is now in churches all over the world. The story of how it got there, and why for almost twenty years the Church restricted it, is waiting for you in the next video.
+Part of Thérèse's religious name was "of the Holy Face" of Jesus. A generation after her death, in 1934, another young nun, in Vilnius, sat beside a painter and told him how to paint Jesus as she said she had seen him. That painting is now in churches all over the world. The story of how it got there, and why for almost twenty years the Church restricted it, is waiting for you in the next video.
 
 ## 19:06 — Outro and end screen
 
