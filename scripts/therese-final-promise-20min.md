@@ -1,7 +1,7 @@
 # Why Saint Thérèse of Lisieux's FINAL Promise Is Unfolding Right NOW
 
 **Version 2: retention edit (escalation ladder)**
-**Target runtime:** 20:00 exactly · **Spoken words:** 3,083 at 160 wpm = 19:16 narration + 0:44 end-card hold
+**Target runtime:** 20:00 exactly · **Spoken words:** 3,085 at 160 wpm = 19:17 narration + 0:43 end-card hold
 **Placeholders:** [LEAD MAGNET] · [URL]
 **Open loops:** A = Is the promise being kept? (hook → end) · B = What happened to Maurice? (hook → midpoint) · C = The line almost nobody quotes (hook → about 80%)
 Bracketed lines are production notes and are not read aloud.
@@ -14,13 +14,13 @@ In July of this year, people came to a Carmelite church in Kildare, in Ireland, 
 
 Before she died, she promised she would keep working on earth until the end of the world.
 
-But the very first man she made that promise to ended up, ten years after her death, in a hospital ward in the city of Caen. And what the record says about that ward is not what you would expect.
+But the very first young man she ever promised to help ended up, ten years after her death, in a hospital ward in the city of Caen. And what the record says about that ward is not what you would expect.
 
 So which is it? Is Saint Thérèse of Lisieux keeping her final promise right now? Or did it fail from the very start?
 
 Stay with me. The answer is hidden in one line she said on her deathbed, a line almost nobody quotes.
 
-## 00:57 — THE PROMISE
+## 00:58 — THE PROMISE
 
 The 17th of July, 1897. Thérèse has been in the convent infirmary for nine days. Tuberculosis is destroying her lungs. Beside the bed sits her older sister Pauline, known in the convent as Mother Agnes of Jesus, with a small notebook, writing down what the dying nun says.
 
@@ -34,11 +34,11 @@ I will show you that line. But first you need to know what it cost her to say an
 
 Before we go on, let me ask you something. Have you ever asked Thérèse for something? Tell me in the comments what happened. I read them, every one.
 
-## 02:18 — LEAD-MAGNET READ #1
+## 02:19 — LEAD-MAGNET READ #1
 
 And so many of you write to me about a son, a daughter or a grandchild who has drifted from the faith. I gathered the saints who carried that same weight, and the prayers they actually prayed, into [LEAD MAGNET], a large-print guide. It's at [URL]. Now, back to that infirmary.
 
-## 02:37 — THE DARK
+## 02:38 — THE DARK
 
 She was born Thérèse Martin in 1873, in Alençon, the youngest of nine children. When she was four, her mother, Zélie, died of breast cancer. At fifteen, after appeals that went all the way to the Pope, she entered the Carmel of Lisieux, where two of her sisters already lived. She never came out again.
 
@@ -76,7 +76,7 @@ On the 30th of September, 1897, holding a crucifix, she said, "My God, I love yo
 
 Remember Maurice's name. We will come back to him, and when we do, it will not be easy to hear.
 
-## 07:04 — ON TRIAL
+## 07:05 — ON TRIAL
 
 That should have been the end. A young nun dies. Her sisters mourn. Her notebooks go in a drawer.
 
@@ -92,9 +92,9 @@ Her promise passed. Two years later, this nun who never left her convent was nam
 
 By every official measure, the promise was being kept.
 
-But there is one person that record never mentions. The first man she ever made it to. And while the whole world was discovering her, his life was falling apart.
+But there is one person that record never mentions. The first young man she ever promised to help. And while the whole world was discovering her, his life was falling apart.
 
-## 09:01 — THE WARD IN CAEN
+## 09:02 — THE WARD IN CAEN
 
 Maurice Bellière did become a missionary priest in Africa. Then his health broke down. He came home to Normandy very ill, with an illness that attacked his nerves and his mind.
 
@@ -102,13 +102,13 @@ On the 8th of June, 1907, he was admitted to the Bon Sauveur hospital in Caen.
 
 Now listen to this. The Bon Sauveur in Caen was the same hospital where Thérèse's own father, Louis Martin, had been cared for in the years his mind failed. Thérèse had prayed for her father from behind convent walls while he lay in that place. It was the deepest grief of her life.
 
-And now the brother she had promised to help from heaven lay in the very same place.
+And now the brother she had promised to help lay in the very same place.
 
 Maurice died there on the 14th of July, 1907. He was thirty-three years old, and he died in Caen, the city where he had been born. It was ten years, almost to the week, since she had promised to spend her heaven doing good on earth.
 
 Stop here for a moment, and ask yourself honestly. If a saint promises to help you, and your life still ends in a hospital ward, did the promise fail? Tell me what you think in the comments, because this is where most people misread her.
 
-Here is what the record shows. She never promised Maurice an easy life. She never promised to take the hospital away. What she promised was that she would not be idle. That she would keep working. That she would not leave.
+Here is what the record shows. She never promised Maurice an easy life. She never promised to take the hospital away. What she promised was that she would not be idle in heaven. That she would keep working for souls.
 
 And the one place on earth where her own family had suffered most was exactly the place her brother ended up, as if she had walked that ground before him, so that he would not walk it alone.
 
@@ -178,7 +178,7 @@ If you are carrying someone like that tonight, type their first name in the comm
 
 And if you want the saints who prayed people home before you, and the prayers they used, [LEAD MAGNET] was written for exactly this. It's at [URL].
 
-## 16:50 — THE LITTLE WAY, THIS WEEK
+## 16:49 — THE LITTLE WAY, THIS WEEK
 
 So what do you do with her promise this week? Her way was always small, so start small.
 
@@ -190,23 +190,23 @@ If it has been years since your own confession, go. Tell the priest it has been 
 
 And do one kind thing, unnoticed, for the person in your house who is hardest to love. That was her little way in its purest form.
 
-## 17:29 — CLOSE
+## 17:28 — CLOSE
 
 Go back to that hospital ward in Caen. A young priest, thirty-three years old, sick and confused, dying in the same building where her father had suffered. If any promise should have broken, it was that one.
 
-But she never promised him a life without the ward. She promised him she would not rest. And she didn't.
+But she never promised him a life without the ward. She promised she would not rest while there were souls to be saved.
 
 She is not resting for yours either.
 
-So the next time you pray for that one name and feel nothing, remember who you are praying with. A woman who prayed in the dark for eighteen months and never once saw the results. A woman who promised two young men she would not leave them, and kept that promise all the way into a hospital ward. A woman whose own family's deepest grief became the place where she met her brother again.
+So the next time you pray for that one name and feel nothing, remember who you are praying with. A woman who prayed in the dark for eighteen months and never once saw the results. A woman who promised to keep working for souls after her death, and whose first brother's story runs straight through a hospital ward. A woman whose own family's deepest grief became the place where she met her brother again.
 
 That is not a woman who gives up on people. And by her own words, she will not start with yours.
 
 Thérèse made that promise in the dark, unable to feel the heaven she was promising to spend on us. A generation after her death, in 1934, another young nun, in Vilnius, sat beside a painter and described a vision of Jesus she said she had seen. That painting now hangs in churches all over the world. But for almost twenty years, the Church restricted it. Why, is waiting for you in the next video.
 
-## 18:56 — OUTRO
+## 18:57 — OUTRO
 
-[Narration ends at 19:16. Music and end-card run from 19:16 to 20:00.]
+[Narration ends at 19:17. Music and end-card run from 19:17 to 20:00.]
 
 Thank you for spending this time with Saint Thérèse. If someone you love needs to hear that she has not given up on them, send this video to them tonight. Or send it to someone who is praying for them. Then join us in the next story. God bless you, and good night.
 
