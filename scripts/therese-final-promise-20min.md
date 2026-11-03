@@ -198,7 +198,7 @@ But she never promised him a life without the ward. She promised she would not r
 
 She is not resting for yours either.
 
-So the next time you pray for that one name and feel nothing, remember who you are praying with. A woman who prayed in the dark for eighteen months and never once saw the results. A woman who promised to keep working for souls after her death, and whose first brother's story runs straight through a hospital ward. A woman whose own family's deepest grief became the place where she met her brother again.
+So the next time you pray for that one name and feel nothing, remember who you are praying with. A woman who prayed in the dark for eighteen months and never once saw the results. A woman who promised to keep working for souls after her death, and whose first brother's story runs straight through a hospital ward. A woman whose own family's deepest grief became, if her promise is true, the place where she met her brother again.
 
 That is not a woman who gives up on people. And by her own words, she will not start with yours.
 
