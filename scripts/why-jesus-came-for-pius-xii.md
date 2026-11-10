@@ -7,23 +7,31 @@ Bracketed lines are not spoken. Fill in: [PRODUCT NAME], [URL]
 
 [HOOK, 0:00]
 
-In December of 1954, the Pope asked Jesus Christ to let him die.
+Rome. Before dawn. A pope who believes he is dying whispers one line of an old prayer.
 
-By his own account, Jesus was standing right beside his bed when he asked.
+In the hour of my death, call me.
 
-And he was not taken.
+He looks up.
 
-Twelve hours later, he nearly died anyway.
+Jesus Christ is standing beside his bed.
 
-A year after that, when the story leaked, the Vatican's first answer was two words. No comment. Then the Pope himself overruled them.
+The Pope doesn't hesitate. Call me, he says. Bid me come to you.
 
-This is the true story of Pope Pius the Twelfth, and the night the Vatican later confirmed he saw Christ. Not a legend. Not a rumor. It was in Time magazine, in the London Spectator, and in the Vatican's own newspaper.
+And he is not taken.
 
-So why would Christ come to a dying man's bedside, and then leave him there? What happened in those twelve hours? And why did the man who saw it fight to keep it secret?
+Twelve hours later, he nearly dies anyway.
 
-The answer is in the record. And it is not the answer the newspapers gave.
+He survives. He tells almost no one. For a year, the secret holds. Then it leaks, and the Vatican says two words. No comment.
 
-Before we start, tell me in the comments. If you were lying in that bed, would you have asked to go, or asked to stay? Hold on to your answer. By the end of this story, you may change it.
+Until the Pope does something no one expects. He overrules his own Vatican.
+
+This isn't legend. Time magazine reported it. The Vatican confirmed it. His own doctors disputed it.
+
+So why would Christ come for a dying man, and leave him there?
+
+The answer is in the record. It is not the one the newspapers gave. And it changes what that prayer means for every one of us.
+
+But first, tell me in the comments. If you were in that bed, would you have asked to go, or to stay? Hold on to your answer. By the end, you may change it.
 
 [ESCALATION 1: THE BODY BREAKS]
 
