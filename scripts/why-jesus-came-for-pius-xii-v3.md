@@ -118,7 +118,7 @@ Not one word about Christ at his bedside.
 
 At Christmas, three weeks after that morning, he is back on the radio again, giving his message to the world. He opens it with a verse from Isaiah, where God promises to send peace upon his people like a river.
 
-If he had wanted a miracle to polish his reputation, this was the moment.
+Still nothing about the vision. And think about that. If he had wanted a miracle to polish his reputation, this was the moment.
 
 He said nothing. For eleven months. He told only a handful of the people closest to him.
 
