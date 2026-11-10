@@ -77,7 +77,7 @@
 
 **A: "Came for him" (recommended)**
 - Image: an archival B&W Pius XII portrait (real) on the left, eyes up. On the right, a soft painterly backlit figure (RECON style, no detailed face). The two are split by warm golden light.
-- Text: **HE SAID NO** (white, heavy condensed). Alternative: **NOT YET** (white, with YET in crimson).
+- Text: **NOT YET** (white, heavy condensed, with YET in crimson). Avoid "HE SAID NO": the record never says Christ refused him.
 - Badge: small "VATICAN CONFIRMED" tag, top-left.
 
 **B: The bed**
