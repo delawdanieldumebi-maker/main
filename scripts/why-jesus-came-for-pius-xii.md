@@ -1,186 +1,264 @@
 # Why Jesus Came for Pope Pius XII… and DIDN'T Take Him
 
-Target: 20:00 at ~145 wpm (≈2,900 spoken words). Bracketed lines are not spoken.
-Placeholders: [HOST NAME], [PRODUCT NAME], [URL]
+Version 2: escalation cut. Target 20:00 at ~145 wpm (≈2,900 spoken words).
+Bracketed lines are not spoken. Fill in: [PRODUCT NAME], [URL]
 
 ---
 
-[COLD OPEN]
+[HOOK, 0:00]
 
-Rome, the first week of December, 1954. On the third floor of the Apostolic Palace, in a corner bedroom, an old man is lying awake before dawn with a prayer book in his hands. He is seventy-eight. He has not kept down a proper meal in days. And for most of that year, his body has been shaking with one small, ridiculous, unbearable thing. Hiccups.
+In December of 1954, the Pope asked Jesus Christ to let him die.
 
-He is Pope Pius the Twelfth, and he believes he is dying.
-
-He is praying an old Latin prayer, slowly, line by line. And when he reaches the line that asks Christ to call him at the hour of his death, he looks up. By his own account, Jesus is standing beside his bed.
-
-The Pope answers him with the words of the prayer. Call me. Bid me come to you.
-
-And then the figure is gone. The room is empty. And the old man is still alive.
-
-Almost a year later, the Vatican's own press office confirmed that he had said this, and that he was certain of it. Newspapers around the world called him only the second pope in sixteen hundred years to whom Christ had appeared.
-
-So here is the question this whole story turns on. If Jesus came for him, why didn't He take him?
-
-The answer is in the record. And part of it is hiding inside a detail that almost every retelling leaves out, something that happened about twelve hours after the vision. We will get there. But first, the man in the bed.
-
-[THE MAN]
-
-Eugenio Pacelli was not a mystic by temperament. He was a Roman lawyer's son who became a Vatican diplomat. Tall, very thin, round glasses, a precise voice. He wrote his speeches in several languages and weighed every word before he let it go. If anyone in Rome was going to keep a private experience private, it was him.
-
-And yet the people closest to him already treated him as a man heaven kept an eye on. He had been consecrated a bishop on the thirteenth of May, 1917, the very day three shepherd children in Portugal said a lady from heaven first appeared to them at Fatima. And in the autumn of 1950, walking in the Vatican gardens, he wrote in pencil that he had watched the sun spin and move the way thousands said it moved at Fatima. He put the note away and told almost no one.
-
-Hold on to that habit of silence, because it explains almost everything that happens next.
-
-[PRODUCT CTA 1]
-
-A quick word before we go on. So many of you write to me about a son, a daughter or a grandchild who has drifted from the Church. I put together [PRODUCT NAME] for exactly that, the saints who prayed someone home, and the prayers they actually used. You'll find it at [URL].
-
-[THE LONG ILLNESS]
-
-It started in January of 1954, with the hiccups. At first they came and went. By February, Time magazine was reporting them as nearly constant, with a slight fever. The Vatican newspaper called it a slight indisposition. His doctors found nothing organically wrong, and blamed his age and his hours. He rose at six and often worked until nearly two in the morning.
-
-On the fourteenth of February, he had promised to speak by radio to the sick of the world. He kept the promise from his own bed. And partway through a sentence, his voice gave out. A priest had to take the text and finish it for him. The Pope who was speaking to the sick had become one of them, live, in front of everyone.
-
-By March, the London Spectator reported that he had been hiccuping for nine days straight, and a doctor was flown in urgently from Switzerland, a famous and controversial physician named Paul Niehans. Whatever you think of his methods, notice what it tells you. By that spring, the people around the Pope were frightened.
-
-He kept working anyway. On the twenty-ninth of May, against his doctor's wishes, he stood in the open air of Saint Peter's Square and declared Pope Pius the Tenth a saint, the first pope canonized in more than two hundred years. Just vesting for the ceremony took an hour. Picture it. A sick man who couldn't stop hiccuping, raising to the altars the pope who had let little children make their First Communion at seven. The pope of the Eucharist. The Body and Blood of Christ, the very words that open the prayer he would be saying in his bed six months later.
-
-He kept working. That summer at Castel Gandolfo he is remembered saying that a pope must work until he dies. He meant it as a rule for himself.
-
-By December the cause had a name. X-rays showed a small hiatus hernia, where the stomach meets the esophagus, and an inflamed stomach. In plain words, the kind of trouble that keeps the diaphragm in spasm. He could barely eat. The Marian Year he had opened, the first in the Church's history, was due to close on the eighth of December. And it looked as if he might not live to close it.
-
-If you have stayed this far for a pope's sickroom and an old Roman prayer, subscribe. This channel lives in rooms like this one.
-
-[THE NIGHT]
-
-The evening of the first of December. According to an account published decades later in a Catholic magazine, the men looking after him had nearly given up hope. Keep that at arm's length for now, because his doctors would later say something very different.
-
-What nobody disputes is that the Pope himself believed the end was close. And that evening, the same account says, he heard a voice. It told him one thing. There will be a vision.
-
-When the story finally came out, Milan's leading newspaper went further, and reported that the voice he heard was the voice of Christ, clear and distinct.
-
-So he spent that night the way he spent most nights. Praying.
-
-The prayer was the Anima Christi, the Soul of Christ. It is old, from the thirteen hundreds. Saint Ignatius put it at the front of his Spiritual Exercises, and many of you learned it as children to say quietly after Communion. Soul of Christ, make me holy. Body of Christ, save me. Blood of Christ, fill me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O good Jesus, hear me. Within your wounds, hide me. Never let me be parted from you. From the evil enemy, defend me.
-
-And then, near the end, it turns to the one hour every one of us will face.
-
-In the hour of my death, call me.
-
-In Latin, the language Pius prayed in, *in hora mortis meae voca me.*
-
-Early in the morning, he reached those words. And he saw Jesus standing beside his bed.
-
-Listen to how little is in the record. No light pouring through the windows. No angels. No message for the world. Just the Lord, at the bedside of a man who believed he was dying, at the exact line where that man was asking to be called.
-
-And notice what Pius did. He didn't finish the prayer politely from the top. He went straight to the request. *O bone Iesu*, O good Jesus. Call me. Bid me come to you.
-
-That is not a man reading a text. That is a man speaking to someone in the room.
-
-He thought this was it. The Spectator reported later that, at first, he believed the vision had come to tell him his hour had arrived. He was ready. He asked to go.
+By his own account, Jesus was standing right beside his bed when he asked.
 
 And he was not taken.
 
-[THE TWELVE HOURS]
+Twelve hours later, he nearly died anyway.
 
-Now here is the detail I promised you.
+A year after that, when the story leaked, the Vatican's first answer was two words. No comment. Then the Pope himself overruled them.
 
-When Pius died, four years later, an American wire service obituary remembered that morning. It said the Pope had seen Christ at his bedside while praying the Anima Christi. And then it added one line most retellings have lost. A near-fatal crisis, it said, followed about twelve hours later.
+This is the true story of Pope Pius the Twelfth, and the night the Vatican later confirmed he saw Christ. Not a legend. Not a rumor. It was in Time magazine, in the London Spectator, and in the Vatican's own newspaper.
 
-Sit with that for a moment. In the legend, Christ appears and the Pope is healed. In the record, Christ appears, and then the worst of the night comes anyway.
+So why would Christ come to a dying man's bedside, and then leave him there? What happened in those twelve hours? And why did the man who saw it fight to keep it secret?
 
-The comfort came first. The crisis came after. And the old man had to go through it.
+The answer is in the record. And it is not the answer the newspapers gave.
 
-He did. Two mornings later, when his doctors came into the room, he greeted them himself. Good morning, gentlemen, he said. I am happy to see you.
+Before we start, tell me in the comments. If you were lying in that bed, would you have asked to go, or asked to stay? Hold on to your answer. By the end of this story, you may change it.
 
-That is a very Pacelli sentence. Polite. Formal. A little dry. And with nothing in it about what he had seen.
+[ESCALATION 1: THE BODY BREAKS]
 
-[THE SILENCE]
+It started with the smallest thing a human body can do.
 
-Here is where you might expect him to tell the world. He didn't.
+January, 1954. The Pope gets the hiccups. He is seventy-seven, a thin, precise former diplomat who weighs every word, rises at six and works until nearly two in the morning. At first the hiccups come and go. By February, Time magazine reports them as almost constant, with fever. The Vatican calls it a slight indisposition. The doctors find nothing wrong.
 
-Three days after that morning, on Sunday the fifth, he sent a short radio blessing to the people of Rome, calling them his very dear children. A man who had asked to be taken was blessing his city before the week was out.
+Then, on the fourteenth of February, the whole world hears it.
 
-On the eighth of December, six days after that morning, he closed the Marian Year by radio. He thanked God for asking of him, as an act of love, suffering and sacrifice. He said he was glad to close the year with suffering in his limbs and sacrifice in his heart. Not one word about a vision.
+He has promised to speak by radio to the sick. He does it from his own bed. And in the middle of a sentence, live, his voice gives out. A priest has to take the paper from his hands and finish for him.
 
-The road back was slow. On Christmas Day, an American paper reported the hiccups had returned, and that his personal physician was worried he wasn't regaining his strength. But he did come back, and within months, by one account, he was more vigorous than he had been in years.
+The Pope who was comforting the sick had become one of them, in front of everyone.
 
-And for eleven months, as far as the public knew, the vision didn't exist. He had told only a handful of people closest to him.
+And this was only February.
 
-Think about that. If a pope wanted a miracle to burnish his reputation, the moment was December of 1954, while the whole world was watching his sickbed. He said nothing. He went back to his desk.
+[ESCALATION 2: THE RACE AGAINST THE CLOCK]
+
+By March, the London Spectator reports nine days of hiccups without a break. A doctor is flown in urgently from Switzerland, a famous and controversial man named Paul Niehans. You don't fly in a foreign specialist for a slight indisposition. The people around the Pope are frightened.
+
+He refuses to slow down. On the twenty-ninth of May, against his doctor's wishes, he stands in the open air of Saint Peter's Square to declare Pope Pius the Tenth a saint, the first pope canonized in two hundred years. Just putting on the vestments takes an hour. A pope who cannot stop hiccuping, raising another pope to the altars. And not just any pope. Pius the Tenth was the one who let children make their First Communion at seven. If you made yours as a small child, you made it under his decree. The pope of the Body and Blood of Christ, the very words that open the prayer this sick man will be saying in his bed six months later.
+
+That summer he says a pope must work until he dies.
+
+He has no idea how close he is about to come.
+
+Because by December, the X-rays finally give it a name. A hiatus hernia and an inflamed stomach, keeping his diaphragm in spasm. He cannot eat. He cannot keep food down. And there is a deadline. The first Marian Year in the history of the Church, the year he himself proclaimed, closes on the eighth of December.
+
+It now looks as if he may not live to close it.
+
+[PRODUCT CTA 1]
+
+Quick word before the night itself. So many of you write to me about a son, a daughter or a grandchild who has left the Church. I made [PRODUCT NAME] for you, the saints who prayed someone home, and the exact prayers they used. It's at [URL]. Now, the night.
+
+[ESCALATION 3: THE VOICE]
+
+The evening of the first of December.
+
+According to a detailed Catholic account published decades later, the men looking after him have all but given up hope. Keep that claim at arm's length. His doctors will later say the opposite, and we're going to put them on the stand.
+
+But here is what nobody disputes. The Pope himself believes the end has come.
+
+And that evening, the same account says, he hears a voice. It tells him one thing.
+
+There will be a vision.
+
+Not a dream. Not a feeling. A warning about what is coming. When the story finally broke, Milan's biggest newspaper went further, and reported the voice was Christ's own, clear and distinct.
+
+So now picture him. Seventy-eight, starving, exhausted, alone in the dark. He has been told something is coming. What do you do with a night like that?
+
+He does what he always does. He prays.
+
+[ESCALATION 4: THE VISION]
+
+The prayer is the Anima Christi, the Soul of Christ, seven hundred years old. Some of you learned it as children to say after Communion. Listen to it the way he said it that night.
+
+Soul of Christ, make me holy. Body of Christ, save me. Blood of Christ, fill me. O good Jesus, hear me. Within your wounds, hide me. From the evil enemy, defend me.
+
+And then the line.
+
+In the hour of my death, call me.
+
+In the Latin he prayed in, *in hora mortis meae voca me.*
+
+Early in the morning, he reaches those exact words. He looks up.
+
+And Jesus is standing beside his bed.
+
+No blaze of light. No angels. No message for the world. The record is almost bare. Just the Lord, at arm's length, at the very line where a dying man is asking to be called.
+
+Now watch what Pius does, because this is the moment that tells you he believed it. He doesn't keep reciting. He skips straight to the request. *O bone Iesu.* O good Jesus. Call me. Bid me come to you.
+
+That's not a man reading a prayer. That's a man talking to someone in the room.
+
+He thinks this is the end. The Spectator reported he believed the vision had come to tell him his hour had arrived. He is ready. He asks to go.
+
+And then the figure is gone.
+
+And the Pope is still in the bed.
+
+[RE-HOOK]
+
+So let me ask you, honestly. If Christ appears to you, and you ask to be taken, and you're not, what does that mean? Was it a refusal? A mistake? A fever dream?
+
+Pause and think about it for a second, because the next twelve hours are about to make it much harder to answer.
+
+[ESCALATION 5: THE TWELVE HOURS]
+
+Here's the detail most retellings leave out.
+
+When Pius died, an American wire service obituary remembered that morning. It said he saw Christ at his bedside while praying the Anima Christi. And then it added one more line.
+
+About twelve hours later, a near-fatal crisis.
+
+Read that again. Christ appears. And then the worst of the illness comes anyway.
+
+That breaks the story everyone wants to tell. In the legend, Jesus appears and the Pope is healed. In the record, Jesus appears, and then the old man is plunged into the darkest night of his life.
+
+So did the vision fail? Was it just the delirium of a sick old man, hours before his body gave out? That's exactly what a skeptic would say. And for the next two days, nobody outside that room could have told you the answer.
+
+Two mornings later, his doctors walk in. And the Pope greets them himself. Good morning, gentlemen. I am happy to see you.
+
+He came through it. But don't picture him leaping out of bed cured. On Christmas Day, an American paper reported the hiccups were back, and his personal physician was worried he wasn't regaining his strength. The recovery was slow and uneven, the way it is at seventy-eight. Within months, though, by one account, he was more vigorous than he'd been in years.
+
+And here's the strangest part. He told almost no one.
+
+[SUBSCRIBE]
+
+If you've stayed this far for a pope's sickroom and an old Roman prayer, subscribe. This channel lives in rooms like this one, and there's more coming.
+
+[ESCALATION 6: THE SECRET]
+
+Three days later he blesses Rome by radio. Six days later, on the eighth of December, he closes the Marian Year, live, to the whole world. He thanks God for asking of him suffering and sacrifice. He speaks of suffering in his limbs.
+
+Not one word about Christ at his bedside.
+
+Think about what he was sitting on. The whole world watching his sickbed. A dying pope, a vision of Jesus, a recovery. If he had wanted a miracle for his reputation, this was the moment.
+
+He said nothing. For eleven months. He told only a handful of people closest to him.
+
+This was a man who, four years earlier, had watched the sun move in the Vatican gardens the way thousands said it moved at Fatima, written it in pencil on a scrap of paper, and put it in a drawer. He treated heaven's visits as nobody else's business. And there was more. He had been made a bishop on the thirteenth of May, 1917, the very day three shepherd children in Portugal said a lady from heaven first appeared to them at Fatima. The people closest to him already believed heaven kept an eye on this man. Which made them very careful about what they repeated.
+
+So the secret should have died with him.
+
+It didn't.
+
+[ESCALATION 7: THE LEAK]
+
+November, 1955. An Italian picture magazine called Oggi, the kind families bought at the news-stand, prints the whole thing. The Holy Father, it says, is certain he saw Jesus, and certain he was not dreaming.
+
+It explodes across Italy. Reporters flood the Vatican with calls.
+
+And the Vatican says, no comment.
+
+In Rome, no comment about the Pope is not neutral. It sounds like a denial. For days, the journalist who wrote it looks like a man who invented a holy scoop to sell magazines. His name is Luigi Cavicchioli, and his career is about to be ruined.
+
+Now put yourself in the Pope's place. You never wanted this told. The silence is working. Let it stand a week, and the story dies, the reporter takes the blame, and your privacy is safe again. It is the easiest decision in the world.
 
 [PRODUCT CTA 2]
 
-One more thing while we're here. If there is someone in your family you are praying back to the Church, [PRODUCT NAME] gathers the saints who prayed through the same thing, with the prayers they used. It's at [URL].
+One more thing, and then the twist. If someone in your family has drifted from the faith, [PRODUCT NAME] gathers the saints who prayed through exactly that, with the prayers they used. It's at [URL].
 
-[THE LEAK]
+[ESCALATION 8: THE POPE BREAKS HIS SILENCE]
 
-So how did the world find out?
+Here's what happens next, according to that same Catholic account.
 
-In November of 1955, an Italian picture magazine called Oggi printed the story. The Pope, it said, was certain he had seen Jesus, and certain he was not dreaming.
+The most private pope of the century, the man who kept his visions in a drawer, decides he will not let a reporter be called a liar for telling the truth.
 
-Reporters rang the Vatican. The first answer they got was no comment. In Rome, that sounds a lot like a polite denial, and for a couple of days the journalist who wrote it looked like a man who had invented a holy scoop.
+On the twenty-first of November, 1955, he orders the Vatican press office to confirm the story.
 
-Then, according to that same later Catholic account, Pius did something out of character. He believed the article was substantially right, and he did not want the writer branded a liar for telling the truth. So he had the Vatican press office confirm it. The Vatican's own newspaper then printed an account.
+And they do. Time magazine carries it. The Vatican's own newspaper prints an account. Within weeks, crowds along the road from Castel Gandolfo are shouting, Long live the holy Pope.
 
-A man who guarded his inner life like a locked drawer opened it, at least partly, to protect a magazine writer's name.
+But read the fine print, because this is where it gets interesting. The Vatican confirmed one thing. The Pope says he saw Christ, and he is certain. That's all. Officials specifically denied the vision had miraculously cured him. They denied anyone was building a miracle file for sainthood.
 
-But notice exactly what was confirmed. The Pope said he saw Christ, and he was sure of it. That's all. Vatican officials, Time reported, specifically denied that the vision had miraculously cured his stomach. They denied anyone was collecting miracles for a future canonization.
+Why would the Vatican confirm the vision and deny the miracle in the same breath?
 
-The crowds didn't wait for theologians. The next time he drove from Castel Gandolfo into Rome, Time reported, people along the road shouted, Long live the holy Pope.
+Because someone else was about to speak up. And they were angry.
 
-[THE DOCTORS]
+[ESCALATION 9: THE DOCTORS STRIKE BACK]
 
-And his doctors were not pleased. The Spectator reported they were irritated that his recovery was being credited to heaven. At no time, they said, had he been in mortal danger, and the hiccups had been cured by ordinary medical means.
+His doctors.
 
-That deserves a fair hearing, so let's give it one.
+The Spectator reported they were irritated that heaven was getting the credit. The Pope, they said, was never in mortal danger. The hiccups were cured by ordinary medicine.
 
-First point. The doctors said he wasn't dying. The Pope believed he was. Both can be true. A doctor reading a chart and a seventy-eight-year-old man who can't keep food down are looking at the same body from opposite sides.
+That's a direct hit on the whole story. So let's do what this channel always does. Let's put it on trial, point by point.
 
-Second point. The doctors said the cure was natural. But the Vatican had already said there was no miraculous cure. On the medical question, the doctors and the Church agreed. They were pushing back against headlines and crowds, not against anything Rome had claimed.
+One. The doctors say he wasn't dying. The Pope believed he was. Both can be true. A chart and a starving seventy-eight-year-old see the same body from opposite sides.
 
-Third point. The doctors' statement and the wire service's near-fatal crisis don't sit easily together, and we won't pretend they do. How close he came is genuinely disputed.
+Two. The doctors say the cure was natural. But the Vatican already said there was no miracle cure. On the medicine, they agree.
 
-And fourth, medicine can tell you whether a hernia is dangerous. It cannot tell you who was standing beside the bed.
+Three. The doctors say no mortal danger. The wire service says near-fatal crisis. Those two don't fit together, and I won't pretend they do. How close he came is still disputed.
 
-The Pope himself didn't seem to see it as a contest. In 1955, he appointed Dr. Niehans to the Pontifical Academy of Sciences. He thanked the doctor, and he let the Vatican confirm the vision. In his mind, there was room for both.
+And four. Medicine can tell you whether a hernia is dangerous. It cannot tell you who was standing beside the bed.
 
-And the sixteen hundred years? The newspapers were reaching back to Pope Sylvester in the three hundreds, and an old tradition that an image of the Savior appeared on the wall of the Lateran when he consecrated it. That is a newspaper's arithmetic. The Church has never kept a list, and never ranked Pius second on anything. What made 1955 different was simpler. This time, the Pope's own Vatican, in his own lifetime, said yes. He says this happened.
+Here's what the Pope himself did. He thanked his Swiss doctor by naming him to the Pontifical Academy of Sciences. And he let the vision be confirmed. In his mind there was room for both.
 
-[WHY HE WASN'T TAKEN]
+So which side are you on? The doctors, or the man in the bed? Tell me below. I read the comments.
 
-So, why didn't Jesus take him?
+[ESCALATION 10: THE SIXTEEN HUNDRED YEARS]
 
-No one can read the mind of God, and the Church doesn't ask you to believe this vision at all. But the record gives us three clues.
+Now, the headline that went around the world. Only the second pope in sixteen hundred years to see Christ. The first, Pope Sylvester, back in the three hundreds.
 
-The first is in the prayer itself. Pius asked to be called in the hour of his death. Whatever his doctors' charts said, that hour, it turned out, had not yet come.
+I checked it. The tradition the reporters meant is an image of the Savior said to have appeared on the wall of the Lateran when Sylvester consecrated it. Not Christ at a pope's bedside. The Church has never kept a list and never ranked Pius second on anything.
 
-The second is what Pius took from it. By the Spectator's account, he first thought the visit meant the end. Afterward, he felt so comforted that he began to regain his strength. One devotional retelling puts it in a single line. The Lord came to comfort him, not to summon him.
+What really made this different was simpler, and bigger. Every older story was told by others, long after. This time, a living pope's own Vatican said, yes, he says this happened.
 
-And the third is what he did with the years he was given. In May of 1956, he published one of the longest and most personal letters of his reign, on devotion to the Sacred Heart of Jesus, the heart pierced on the cross. It never mentions any vision, and it had been long in preparation, so we can't prove the one shaped the other. But it is the same man, praying to the same wounded Savior, in whose wounds he had asked to be hidden.
+Which brings us back to the only question that matters.
 
-Put those three clues together and you get something quieter than a miracle story. Not a cure. Not a summons. A visit, at the worst hour of a long year, to a man who still had work to do, and who then had to walk through the crisis on his own two feet.
+[THE ANSWER]
 
-[THE HOUR]
+Why didn't Jesus take him?
 
-The hour he had prayed about came almost four years later, at Castel Gandolfo. On the sixth of October, 1958, he suffered a stroke. A second followed. Just after midnight on the ninth, a Mass for the dying was said near his room and carried on Vatican radio, so Catholics anywhere could pray it with him. About thirty people were in the room, family and the aides who had served him for years. Sister Pascalina, the German nun who had run his household for decades, wet his lips with a little water. Outside, townspeople knelt in the dark.
+Nobody can read the mind of God, and the Church doesn't require you to believe this vision at all. But the record leaves three clues.
 
-At eight minutes to four in the morning, his doctor listened with a stethoscope and said he was gone. And then, breaking with custom, one of his closest aides began to sing the Magnificat. My soul proclaims the greatness of the Lord.
+The first is in the prayer. He asked to be called in the hour of his death. And whatever anyone thought that night, that hour had not come.
 
-Nobody recorded a vision that night. What the record shows is a room full of people praying for him, and a whole world praying with them.
+The second is what Pius took from it. By the Spectator's account, at first he thought it meant the end. Afterward, he felt so comforted that his strength began to come back. One devotional retelling says it in a single line. Christ came to comfort him, not to summon him.
 
-Read the words that come right after the line he prayed in 1954. Bid me come to you, that with your saints I may praise you forever.
+The third is what he did with the time. In 1956 he wrote one of the longest, most personal letters of his reign, on the Sacred Heart of Jesus, pierced on the cross. It never mentions the vision. But it is the same man, writing about the same wounds he'd asked to be hidden in.
 
-In 1954, he asked to be called, and he was given a visit and sent back to work. In 1958, the call came.
+Put them together and you get something more real than a miracle story. Not a cure. Not a summons. A visit, at the worst hour of the worst year, to a man who still had work to do, and who then had to walk through the night on his own.
 
-In 2009, the Church declared him Venerable. His cause is still open. And the vision plays no official part in it, nor should it. It was always a private grace given to one man in one room.
+But the prayer he said that morning wasn't finished yet.
 
-[THE VIEWER]
+[CLIMAX: THE HOUR COMES]
 
-But the prayer isn't his. It belongs to anyone who wants it. And if the Anima Christi isn't a prayer you know, you already pray its most important line. Every Hail Mary ends with it. Pray for us sinners, now and at the hour of our death.
+October, 1958. Castel Gandolfo. Almost four years later.
 
-Most of us will never see what Pius said he saw. But every one of us will reach that hour. And every one of us knows someone, maybe a son, a daughter, a grandchild, who no longer says those words for themselves.
+On the sixth, a stroke. He receives the last rites. A brief rally. Then a second stroke. Just after midnight on the ninth, a Mass for the dying is said beside his room and broadcast on Vatican radio, so the whole world can pray it with him.
 
-So say them for them, tonight, before the hour comes. Say them slowly, the way an old man said them in a dark room in Rome, as if someone were actually listening.
+About thirty people in the room. Family. The aides who served him for years. Sister Pascalina, the nun who ran his household for decades, wetting his lips with a little water. Outside, townspeople kneeling in the dark.
 
-A careful old pope, as cautious a witness as Rome ever had, said that when he reached those words, he was not alone. The Church has always taught that whoever prays them isn't alone either.
+At eight minutes to four in the morning, the doctor lowers his stethoscope. He is gone.
+
+And then, against custom, one of his closest aides begins to sing. My soul proclaims the greatness of the Lord.
+
+The dean of the cardinals lifts the veil from his face and removes the Fisherman's Ring from his finger. The bells of Castel Gandolfo begin to toll, and the churches of Rome answer. Italy closes its schools for three days of mourning.
+
+Nobody claimed a vision that night. Nobody needed to.
+
+Remember the line that comes right after the one he prayed in 1954? Bid me come to you, that with your saints I may praise you forever.
+
+In 1954, he asked, and he was sent back. In 1958, the call came.
+
+In 2009, the Church declared him Venerable. His cause is still open, and the vision plays no official part in it. It was always a private grace, given to one man, in one room.
+
+[CLOSE: YOUR HOUR]
+
+So, back to the question I asked you at the start. Would you ask to go, or to stay?
+
+Here's what this story suggests. It may not be ours to choose. A careful, cautious old man asked to go, with everything in him, and he was handed back almost four more years and a desk full of work. Whatever you believe he saw, notice what he did with it. He didn't sell it. He didn't preach it. He used the time.
+
+But the asking still matters. And you already ask, more than you realize. Every Hail Mary ends with it. Pray for us sinners, now and at the hour of our death.
+
+Every one of us will reach that hour. And most of us know someone, a son, a daughter, a grandchild, who no longer says those words for themselves.
+
+So tonight, say them for them. Slowly. The way an old man said them in a dark room in Rome.
+
+He said that when he reached those words, he was not alone. The Church has always taught that neither are you.
