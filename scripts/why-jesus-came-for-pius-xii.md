@@ -7,31 +7,27 @@ Bracketed lines are not spoken. Fill in: [PRODUCT NAME], [URL]
 
 [HOOK, 0:00]
 
-Rome. Before dawn. A pope who believes he is dying whispers one line of an old prayer.
+A pope asked Jesus Christ to let him die.
 
-In the hour of my death, call me.
+And he was certain Jesus was standing right beside his bed when he asked.
 
-He looks up.
+Rome. Before dawn. 1954. Pope Pius the Twelfth, sick for a year and convinced he is dying, reaches one line of an old prayer. In the hour of my death, call me.
 
-Jesus Christ is standing beside his bed.
+He looks up. Christ is there.
 
-The Pope doesn't hesitate. Call me, he says. Bid me come to you.
+Call me, he says. Bid me come to you.
 
-And he is not taken.
+He is not taken.
 
 Twelve hours later, he nearly dies anyway.
 
-He survives. He tells almost no one. For a year, the secret holds. Then it leaks, and the Vatican says two words. No comment.
+Then he hides it. For a year. When it leaks, the Vatican says two words. No comment. And the Pope overrules his own Vatican.
 
-Until the Pope does something no one expects. He overrules his own Vatican.
-
-This isn't legend. Time magazine reported it. The Vatican confirmed it. His own doctors disputed it.
+Time magazine reported it. The Vatican confirmed it. His own doctors disputed it.
 
 So why would Christ come for a dying man, and leave him there?
 
-The answer is in the record. It is not the one the newspapers gave. And it changes what that prayer means for every one of us.
-
-But first, tell me in the comments. If you were in that bed, would you have asked to go, or to stay? Hold on to your answer. By the end, you may change it.
+The answer is in the record. It is not the one the newspapers gave. And the last part of this story is the reason I made this video.
 
 [ESCALATION 1: THE BODY BREAKS]
 
@@ -115,7 +111,7 @@ And the Pope is still in the bed.
 
 So let me ask you, honestly. If Christ appears to you, and you ask to be taken, and you're not, what does that mean? Was it a refusal? A mistake? A fever dream?
 
-Pause and think about it for a second, because the next twelve hours are about to make it much harder to answer.
+Tell me in the comments. If you were in that bed, would you have asked to go, or to stay? Hold on to your answer, because the next twelve hours are about to make it much harder, and by the end you may change it.
 
 [ESCALATION 5: THE TWELVE HOURS]
 
@@ -259,7 +255,7 @@ In 2009, the Church declared him Venerable. His cause is still open, and the vis
 
 [CLOSE: YOUR HOUR]
 
-So, back to the question I asked you at the start. Would you ask to go, or to stay?
+So, back to the question I asked you in that bedroom. Would you ask to go, or to stay?
 
 Here's what this story suggests. It may not be ours to choose. A careful, cautious old man asked to go, with everything in him, and he was handed back almost four more years and a desk full of work. Whatever you believe he saw, notice what he did with it. He didn't sell it. He didn't preach it. He used the time.
 
