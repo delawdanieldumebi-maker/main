@@ -22,7 +22,7 @@ The answer is in the record. It is not the one the newspapers gave. And the last
 
 It all started with the smallest thing a human body can do.
 
-January, 1954. The Pope gets the hiccups. He is seventy-seven years old. Tall, very thin, round glasses, a former diplomat who weighs every word before he says it. He rises at six and often works until nearly two in the morning. At first, the hiccups come and go. By February, Time magazine is reporting them as almost constant, with a fever. The Vatican calls it a slight indisposition. The doctors examine him and find nothing wrong.
+January, 1954. The Pope gets the hiccups. He is seventy-seven years old. Tall, very thin, round glasses, a former diplomat who weighs every word before he says it. He rises at six and often works until nearly two in the morning. At first, the hiccups come and go. By February, Time magazine is reporting them as almost constant, with a fever. The Vatican calls it a slight indisposition. The doctors find nothing wrong.
 
 Then, on the fourteenth of February, the whole world hears it.
 
@@ -46,8 +46,6 @@ Because by December, the X-rays finally put a name to it. A hiatus hernia, and a
 
 And it now looks as if he may not live long enough to close it.
 
-Quick word before we go into that night. So many of you write to me about a son, a daughter or a grandchild who has left the Church. I made [PRODUCT NAME] for you. It tells the stories of the saints who prayed someone home, with the exact prayers they used. It's at [URL]. Now, the night.
-
 The evening of the first of December.
 
 According to a detailed Catholic account published decades later, the men caring for him have all but given up hope. Hold that claim at arm's length. His doctors will later say the exact opposite, and we're going to put them on the stand.
@@ -64,7 +62,7 @@ Picture him. Seventy-eight. Starving. Exhausted. Alone in the dark. He has just 
 
 He does what he has always done. He prays.
 
-The prayer is the Anima Christi, the Soul of Christ. It is seven hundred years old. Some of you learned it as children. Listen to it the way he would have said it that night.
+The prayer is the Anima Christi, the Soul of Christ. It is seven hundred years old. Nobody knows for certain who wrote it. It was carved on a palace gate in Seville in the thirteen hundreds, and Saint Ignatius loved it so much he put it at the very front of his Spiritual Exercises. Some of you learned it as children. Listen to it the way he would have said it that night.
 
 Soul of Christ, make me holy. Body of Christ, save me. Blood of Christ, fill me. O good Jesus, hear me. Within your wounds, hide me. From the evil enemy, defend me.
 
@@ -118,7 +116,9 @@ Three days after that morning, he blesses Rome by radio. Six days after, on the 
 
 Not one word about Christ at his bedside.
 
-Think about what he was sitting on. If he had wanted a miracle to polish his reputation, this was the moment.
+At Christmas, three weeks after that morning, he is back on the radio again, giving his message to the world. He opens it with a verse from Isaiah, where God promises to send peace upon his people like a river.
+
+If he had wanted a miracle to polish his reputation, this was the moment.
 
 He said nothing. For eleven months. He told only a handful of the people closest to him.
 
@@ -138,8 +138,6 @@ Now, in Rome, no comment about the Pope is not neutral. It sounds like a denial.
 
 Put yourself in the Pope's shoes. You never wanted this told. Let it stand for one week, and the story dies, the reporter takes the blame, and your privacy is safe again. It is the easiest decision in the world.
 
-One more thing before the twist. If someone in your family has drifted from the faith, [PRODUCT NAME] gathers the saints who prayed through exactly that, along with the prayers they used. It's at [URL].
-
 So here is what happens next, according to that same Catholic account.
 
 The most private pope of the century, the man who kept his visions in a drawer, decides he will not let a reporter be called a liar for telling the truth.
@@ -158,7 +156,7 @@ His doctors.
 
 The Spectator reported that they were irritated that heaven was getting the credit. He was never in mortal danger, they said, and the hiccups were cured by ordinary medicine.
 
-That is a direct hit on the whole story. So let's do what this channel always does. Let's put it on trial, one point at a time.
+That is a direct hit on the whole story. So let's put it on trial, one point at a time.
 
 Point one. The doctors say he wasn't dying. The Pope believed he was. Both can be true. A chart and a starving old man see the same body from opposite sides.
 
