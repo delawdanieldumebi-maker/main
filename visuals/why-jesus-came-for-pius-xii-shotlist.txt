@@ -1,0 +1,394 @@
+VISUAL PLAN: WHY JESUS CAME FOR POPE PIUS XII... AND DIDN'T TAKE HIM
+
+60 scenes. Runtime about 20:14. Timestamps assume 145 words per minute, so re-time them to the final voiceover.
+
+ASSET KEY
+ARCH: real archival photos, film or prints.
+STOCK: real location or stock footage.
+AI: AI-generated atmosphere (objects and rooms only, never the faces of real people).
+RECON: stylised painterly reconstruction, with a small RECONSTRUCTION tag in the top-right corner.
+GFX: motion graphics.
+
+TYPE AND COLOUR
+Serif (for example Playfair Display) for dates, numbers and quotes. Bold sans-serif (for example Inter) for names and labels. White text only. One crimson accent (#B3202A).
+Lower-thirds: a round black-and-white portrait, then the name, then a one-line descriptor, bottom-left over a soft vignette.
+Source cards: paper-texture clippings with the publication name typeset in plain serif (no copied mastheads), the date, and a paraphrased point. Never put invented quotes in quotation marks.
+
+SCENES
+
+SCENE 1 (0:00)
+Voiceover: "A pope asked Jesus Christ to let him die."
+Visual: AI: black frame, a single candle flame flickers to life in a dark stone room
+On-screen text: none
+Motion and sound: Slow push-in. Low drone starts
+
+SCENE 2 (0:03)
+Voiceover: "…certain Jesus was standing right beside his bed…"
+Visual: ARCH: B&W close portrait of Pius XII, desaturated
+On-screen text: none
+Motion and sound: Very slow push to the eyes
+
+SCENE 3 (0:09)
+Voiceover: "Rome. Before dawn. 1954…"
+Visual: STOCK: Apostolic Palace / St Peter's at night, one window lit. Cut to AI: old hands on a prayer book, rosary, dim lamp (no face)
+On-screen text: "ROME · 1954" (serif, bottom-left). Then the line In the hour of my death, call me. (italic serif) fades in
+Motion and sound: Slow pan. Whispered room tone
+
+SCENE 4 (0:26)
+Voiceover: "He looks up. Christ is there… He is not taken."
+Visual: RECON: bedside, a softly backlit standing figure, face not detailed. The light dissolves; the bed remains
+On-screen text: "HE IS NOT TAKEN." (centre, serif)
+Motion and sound: Hard cut on "He looks up". Music swells, then cuts to silence on "not taken"
+
+SCENE 5 (0:34)
+Voiceover: "Twelve hours later, he nearly dies anyway."
+Visual: GFX: clock (frame-3 style) spins forward 12 hours over a blurred archival Pius
+On-screen text: "+12 HOURS" with "near-fatal crisis" beneath
+Motion and sound: Ticking SFX speeding up. Crimson clock centre
+
+SCENE 6 (0:37)
+Voiceover: "Then he hides it… No comment… overrules his own Vatican."
+Visual: Fast montage: AI drawer sliding shut → STOCK 1950s Italian news-stand → GFX crimson "NO COMMENT" stamp → STOCK Vatican flag (frame 4)
+On-screen text: "1 YEAR" · "NO COMMENT" · "OVERRULED"
+Motion and sound: One cut per beat. Stamp thud SFX
+
+SCENE 7 (0:51)
+Voiceover: "Time reported… Vatican confirmed… doctors disputed."
+Visual: GFX: three source cards slide in one per beat: Time · L'Osservatore Romano · The Spectator
+On-screen text: "REPORTED" / "CONFIRMED" / "DISPUTED" (DISPUTED in crimson)
+Motion and sound: Cards stack, slight paper rustle
+
+SCENE 8 (0:57)
+Voiceover: "So why would Christ come for a dying man…"
+Visual: RECON: empty bed in grey early light, curtains still
+On-screen text: "Why did He leave him there?" (serif)
+Motion and sound: Slow push. Fade to black on "the reason I made this video"
+
+SCENE 9 (1:14)
+Voiceover: "It all started with the smallest thing…"
+Visual: AI: macro of a water glass on a nightstand, its surface trembling. Cut to ARCH: Pius XII at his desk
+On-screen text: Lower-third: "Pope Pius XII · Eugenio Pacelli, 1876–1958"
+Motion and sound: Ripple in time with a soft "hic" pulse in the sound design (subtle)
+
+SCENE 10 (1:35)
+Voiceover: "He rises at six… two in the morning… slight indisposition."
+Visual: GFX: clock 6:00 AM → 2:00 AM over blurred archival photo. Then two source cards: Time (Feb 1954) and Vatican newspaper
+On-screen text: "6:00 AM rises · 2:00 AM still working". Cards: "hiccups almost constant" · "a slight indisposition"
+Motion and sound: Clock hands sweep. Cards slide
+
+SCENE 11 (1:49)
+Voiceover: "Then, on the fourteenth of February…"
+Visual: AI: 1950s radio set glowing in a dark room. ARCH: a period microphone / Pius at a microphone
+On-screen text: "14 FEB 1954"
+Motion and sound: Radio crackle under VO. On "voice gives out", audio drops to static for 1 second
+
+SCENE 12 (2:13)
+Voiceover: "…had become one of them… only February."
+Visual: ARCH/STOCK: 1950s hospital ward, patients beside a radio
+On-screen text: "And this was only February." (small serif)
+Motion and sound: Slow pan. Calendar page tears off to MARCH
+
+SCENE 13 (2:21)
+Voiceover: "By March… nine straight days… Paul Niehans."
+Visual: Source card: The Spectator. Then ARCH: Niehans portrait over 1950s clinic / airliner stock (relevant background, unlike the source channel's frame 1 mismatch)
+On-screen text: "9 DAYS STRAIGHT". Lower-third: "Paul Niehans · Swiss physician, flown in urgently"
+Motion and sound: Plane-engine SFX under the cut
+
+SCENE 14 (2:40)
+Voiceover: "…29 May… Pius the Tenth a saint… vesting takes an hour."
+Visual: ARCH: 1954 canonization in St Peter's Square, crowds
+On-screen text: "29 MAY 1954" · "First pope canonized in 200 years"
+Motion and sound: Wide shot, slow drift. Crowd ambience
+
+SCENE 15 (3:05)
+Voiceover: "Pius the Tenth… First Communion at seven… Body and Blood…"
+Visual: ARCH: Pius X portrait. ARCH: B&W First Communion class photo. AI: chalice and host in golden light
+On-screen text: Lower-third: "Pope St. Pius X · 1835–1914". Faint serif: "Body of Christ · Blood of Christ"
+Motion and sound: Gentle dissolves. The words linger (foreshadowing)
+
+SCENE 16 (3:31)
+Voiceover: "That summer… must work until he dies… how close…"
+Visual: STOCK/ARCH: Castel Gandolfo above Lake Albano
+On-screen text: Location tag: "Castel Gandolfo · papal summer villa". Quote card: A pope must work until he dies (labelled "attributed, 1954")
+Motion and sound: Slow aerial-style push. Music darkens on "how close"
+
+SCENE 17 (3:40)
+Voiceover: "By December, the X-rays…"
+Visual: STOCK: vintage X-ray film on a lightbox (generic, tagged "ILLUSTRATIVE")
+On-screen text: "Hiatus hernia + inflamed stomach"
+Motion and sound: Lightbox flicker-on SFX
+
+SCENE 18 (3:55)
+Voiceover: "…Marian Year… closes on the eighth… may not live…"
+Visual: GFX: calendar countdown 1 → 8 December, crimson circle on 8. AI: candle burning low
+On-screen text: "MARIAN YEAR CLOSES · 8 DEC"
+Motion and sound: Countdown ticks. Fade on the guttering candle
+
+SCENE 19 (4:12)
+Voiceover: "The evening of the first of December… arm's length…"
+Visual: GFX: date card. Source card: "The Angelus, 1989 (Catholic magazine)" with an amber "LATER ACCOUNT" tag
+On-screen text: "1 DEC 1954 · EVENING" · "CLAIM: hope all but given up" with a "?" stamp
+Motion and sound: Stamp SFX. Clean, documentary feel
+
+SCENE 20 (4:32)
+Voiceover: "Nobody disputes… he hears a voice…"
+Visual: AI: dark bedroom, curtain barely moving, a thin line of light under the door
+On-screen text: none
+Motion and sound: Room tone only. Music out
+
+SCENE 21 (4:45)
+Voiceover: "There will be a vision. … clear and distinct."
+Visual: GFX: full black, white serif quote. Then source card: Corriere della Sera (Milan, 1955)
+On-screen text: "There will be a vision." (held 2 s) · card: "the voice of Christ, clear and distinct"
+Motion and sound: Silence before the line, low swell after
+
+SCENE 22 (5:01)
+Voiceover: "Picture him… alone in the dark… He prays."
+Visual: RECON: an old man in bed seen from behind and above, lamp, prayer book
+On-screen text: none
+Motion and sound: Slow overhead push-down
+
+SCENE 23 (5:16)
+Voiceover: "The prayer is the Anima Christi… Seville… Ignatius…"
+Visual: Montage: ARCH medieval manuscript page → STOCK Alcázar of Seville gateway → ARCH St Ignatius portrait (public-domain painting)
+On-screen text: "ANIMA CHRISTI · 14th century". Lower-third: "St. Ignatius of Loyola · Spiritual Exercises"
+Motion and sound: Ken Burns on each. Soft choral pad
+
+SCENE 24 (5:46)
+Voiceover: "Soul of Christ, make me holy…"
+Visual: AI: an old holy card / prayer page on a wooden desk (frame-2 style)
+On-screen text: Each line appears in serif as it is read
+Motion and sound: Slow drift. Text fades in line by line
+
+SCENE 25 (6:00)
+Voiceover: "And then comes the line… in hora mortis meae voca me."
+Visual: GFX: the other lines fade; one remains. Then the Latin cut in Roman capitals on a marble texture (frame-1 homage)
+On-screen text: "In the hour of my death, call me." (crimson underline) → "IN HORA MORTIS MEAE VOCA ME"
+Motion and sound: Music stops on "call me"
+
+SCENE 26 (6:10)
+Voiceover: "He reaches those exact words… Jesus is standing beside his bed."
+Visual: RECON: the bedside figure from scene 4, slightly closer, still not photoreal
+On-screen text: none
+Motion and sound: Slow push. The single sustained note returns
+
+SCENE 27 (6:18)
+Voiceover: "No blaze of light. No angels. No message…"
+Visual: Pattern interrupt: three baroque vision paintings (ARCH, public domain) each shown, then dimmed to grey. Back to the plain RECON frame
+On-screen text: "NO BLAZE OF LIGHT" / "NO ANGELS" / "NO MESSAGE"
+Motion and sound: One hit SFX per denial
+
+SCENE 28 (6:33)
+Voiceover: "Now watch what Pius does… O bone Iesu… talking to someone…"
+Visual: AI: close-up of old fingers tightening on a rosary
+On-screen text: O bone Iesu… voca me. → "O good Jesus… call me."
+Motion and sound: Very slow push. Breath-level VO
+
+SCENE 29 (6:57)
+Voiceover: "He thinks this is it… asks to go… figure is gone… still in the bed."
+Visual: Source card: The Spectator ("believed his hour had come"). RECON: the light fades from the figure, leaving an empty space
+On-screen text: none on the final shot
+Motion and sound: Hold 3 seconds of near-silence on the empty frame
+
+SCENE 30 (7:15)
+Voiceover: "Refusal? Mistake? Fever dream? … Tell me in the comments."
+Visual: GFX: three words stacked over the blurred bed. Then a two-option card
+On-screen text: "REFUSAL?" "MISTAKE?" "FEVER DREAM?" → "GO or STAY? Tell me below 👇"
+Motion and sound: Each word on the beat. Comment-icon pop
+
+SCENE 31 (7:48)
+Voiceover: "…detail most retellings leave out… twelve hours later…"
+Visual: GFX: wire-service obituary clipping (typeset "United Press · Oct 1958"), a highlighter sweeping one line. Clock spins 12 hours
+On-screen text: "+12 HOURS · NEAR-FATAL CRISIS"
+Motion and sound: Highlighter squeak, clock ticks, crimson flash
+
+SCENE 32 (8:07)
+Voiceover: "In the legend… In the record… Did the vision fail?"
+Visual: GFX split screen: left, gilded painting labelled LEGEND; right, stark B&W corridor labelled RECORD
+On-screen text: LEGEND: "appears → healed" · RECORD: "appears → crisis" · then "DELIRIUM?"
+Motion and sound: Split slides open. Music minor
+
+SCENE 33 (8:41)
+Voiceover: "Two mornings later… Good morning, gentlemen."
+Visual: ARCH: 1950s physicians / Vatican corridor. GFX quote card
+On-screen text: "Good morning, gentlemen. I am happy to see you."
+Motion and sound: Warm light lift. First gentle major chord
+
+SCENE 34 (8:50)
+Voiceover: "Christmas Day… hiccups were back… more vigorous…"
+Visual: Source card: US paper, 25 Dec 1954. Lower-third over ARCH portrait. Then ARCH: Pius at a 1955 audience, healthy
+On-screen text: "Hiccups return". Lower-third: "Riccardo Galeazzi-Lisi · Personal physician"
+Motion and sound: Tempo picks up on "more vigorous"
+
+SCENE 35 (9:12)
+Voiceover: "He told almost no one. … subscribe."
+Visual: AI: a drawer sliding shut in a dark study. Subscribe animation over a candle-lit room
+On-screen text: "HE TOLD ALMOST NO ONE."
+Motion and sound: Drawer click. Subscribe button: subtle, 3 seconds
+
+SCENE 36 (9:27)
+Voiceover: "…blesses Rome by radio… closes the Marian Year…"
+Visual: ARCH: Pius at a microphone. GFX date ticks 5 DEC → 8 DEC
+On-screen text: "5 DEC · radio blessing" → "8 DEC · Marian Year closed"
+Motion and sound: Radio-filter echo on the dates
+
+SCENE 37 (9:46)
+Voiceover: "Not one word… Christmas… Isaiah… river…"
+Visual: GFX: "NOT ONE WORD." Then AI: an old Bible open at Isaiah. STOCK: a slow, calm river
+On-screen text: "NOT ONE WORD." · "Isaiah: peace like a river"
+Motion and sound: Hold on the black card, then soft water sound
+
+SCENE 38 (10:06)
+Voiceover: "Still nothing… eleven months… a handful…"
+Visual: GFX: calendar pages flip Dec 1954 → Nov 1955
+On-screen text: Counter "11 MONTHS"
+Motion and sound: Flip SFX accelerating
+
+SCENE 39 (10:22)
+Voiceover: "Four years earlier… the sun… pencil… drawer… 13 May 1917… Fatima…"
+Visual: STOCK: Vatican Gardens, sun through cloud. AI: a pencil note on scrap paper (illustrative). ARCH: Fatima 1917 crowd photo + young Bishop Pacelli photo, split
+On-screen text: "1950 · Vatican Gardens" · "13 MAY 1917" on both halves of the split
+Motion and sound: Split screen locks together on the date
+
+SCENE 40 (11:05)
+Voiceover: "So the secret should have died… It didn't. … Oggi…"
+Visual: GFX: black, "It didn't." Then STOCK: 1950s Italian news-stand. Source card: Oggi
+On-screen text: "IT DIDN'T." · "OGGI · NOV 1955"
+Motion and sound: Hard cut out of the silence
+
+SCENE 41 (11:21)
+Voiceover: "It explodes… reporters flood… no comment."
+Visual: STOCK: rotary phones ringing, quick cuts. STOCK: Vatican flag. GFX: crimson stamp
+On-screen text: "NO COMMENT"
+Motion and sound: Phones overlap, then cut to a dead stop on the stamp
+
+SCENE 42 (11:28)
+Voiceover: "…not neutral… Luigi Cavicchioli… Put yourself in the Pope's shoes…"
+Visual: STOCK: 1950s newsroom, typewriter. Lower-third. Then GFX: a two-pan scale over a blurred Pius portrait
+On-screen text: Lower-third: "Luigi Cavicchioli · Journalist, Oggi". Scale: "SILENCE: privacy safe" vs "TRUTH: reporter cleared"
+Motion and sound: Typewriter clacks. Scale tips slowly
+
+SCENE 43 (12:04)
+Voiceover: "…21 November… confirm the story… Long live the holy Pope."
+Visual: GFX: date card + typed press-note texture with "CONFIRMED". ARCH: crowds on the road to Castel Gandolfo
+On-screen text: "21 NOV 1955 · CONFIRMED" · "Viva il Papa santo!"
+Motion and sound: Crowd swell under the VO
+
+SCENE 44 (12:41)
+Voiceover: "Read the fine print… confirmed exactly one thing… why both?"
+Visual: GFX: document checklist
+On-screen text: ✓ "He says he saw Christ" · ✗ "Miraculous cure" · ✗ "Miracle file for sainthood"
+Motion and sound: Tick and cross SFX. Push on the two ✗
+
+SCENE 45 (13:09)
+Voiceover: "Someone else was about to speak up… His doctors."
+Visual: ARCH: 1950s doctors in white coats, stethoscope close-up. Source card: The Spectator
+On-screen text: "THE DOCTORS" · card: "never in mortal danger"
+Motion and sound: Music turns tense. Hard cut on "His doctors."
+
+SCENE 46 (13:27)
+Voiceover: "Let's put it on trial… Point one… Point two…"
+Visual: GFX: courtroom-style split, "THE DOCTORS" vs "THE MAN IN THE BED", over blurred archival imagery
+On-screen text: "1 · Not dying ↔ believed dying → both can be true" · "2 · Natural cure ↔ Vatican agrees"
+Motion and sound: Gavel tap on each point (subtle)
+
+SCENE 47 (13:59)
+Voiceover: "Point three… Point four…"
+Visual: GFX: same layout. Final beat: the doctors' panel fades, leaving the empty bed
+On-screen text: "3 · No danger ↔ near-fatal crisis: DISPUTED" (crimson) · "4 · Medicine can't say who stood by the bed"
+Motion and sound: Hold on the bed after point 4
+
+SCENE 48 (14:21)
+Voiceover: "He thanked his Swiss doctor… room for both. Which side are you on?"
+Visual: ARCH: Pontifical Academy of Sciences building / Niehans portrait. GFX: comment prompt
+On-screen text: "Niehans → Pontifical Academy of Sciences" · "DOCTORS or THE MAN IN THE BED? 👇"
+Motion and sound: Warm resolve chord, comment pop
+
+SCENE 49 (14:45)
+Voiceover: "…sixteen hundred years… Sylvester… Lateran… never kept a list…"
+Visual: GFX: timeline 314 → 1954 with "1,600 YEARS" counter. ARCH: Lateran Basilica engraving (frame-5 style). Lower-third: "Pope St. Sylvester I · 314–335"
+On-screen text: "1,600 YEARS?" → "An image on a wall, not a bedside" · "No official list"
+Motion and sound: Timeline sweeps. Pencil-sketch texture
+
+SCENE 50 (15:19)
+Voiceover: "What really made this different… a living pope's own Vatican said yes…"
+Visual: ARCH: Pius XII portrait 1955, slowly coming into colour-grade warmth
+On-screen text: "THIS TIME: CONFIRMED IN HIS LIFETIME"
+Motion and sound: Music lifts, then drops before the question
+
+SCENE 51 (15:33)
+Voiceover: "Why didn't Jesus take him? … three clues. The first is in the prayer…"
+Visual: GFX: black, the title question. Then the prayer card from scene 24, "hour of my death" highlighted
+On-screen text: "WHY DIDN'T JESUS TAKE HIM?" → "CLUE 1 · The hour had not come"
+Motion and sound: Single bell tone on the question
+
+SCENE 52 (16:03)
+Voiceover: "The second is what Pius took from it… to comfort him, not to summon him."
+Visual: Source card: The Spectator. RECON: the morning bedroom, warmer light now
+On-screen text: "CLUE 2 · Comfort, not summons"
+Motion and sound: Warm strings enter
+
+SCENE 53 (16:23)
+Voiceover: "The third… 1956… Sacred Heart…"
+Visual: ARCH: Sacred Heart devotional painting (public domain). GFX: document card "Haurietis Aquas · May 1956"
+On-screen text: "CLUE 3 · He used the time"
+Motion and sound: Slow push into the heart image
+
+SCENE 54 (16:47)
+Voiceover: "Put those clues together… wasn't finished yet."
+Visual: Montage of the three clue cards collapsing into one frame, then the empty bed
+On-screen text: "Not a cure. Not a summons. A visit."
+Motion and sound: Music swells, then cuts to silence on "wasn't finished yet"
+
+SCENE 55 (17:12)
+Voiceover: "October, 1958… a stroke… last rites… Mass for the dying… radio…"
+Visual: ARCH: Castel Gandolfo 1958. ARCH/STOCK: 1950s radio, a candlelit altar
+On-screen text: "CASTEL GANDOLFO · 6–9 OCT 1958"
+Motion and sound: Radio-filtered Latin chant, low
+
+SCENE 56 (17:35)
+Voiceover: "About thirty people… Sister Pascalina… townspeople kneel…"
+Visual: ARCH: Sister Pascalina portrait. STOCK: night exterior, figures kneeling (silhouettes)
+On-screen text: Lower-third: "Sister Pascalina Lehnert · Head of his household"
+Motion and sound: Very slow pans. Crickets / night air
+
+SCENE 57 (17:51)
+Voiceover: "Eight minutes to four… He is gone… Magnificat…"
+Visual: GFX: clock stops at 3:52. AI: a single candle extinguishing. Then soft light
+On-screen text: "3:52 AM · 9 OCT 1958" · My soul proclaims the greatness of the Lord.
+Motion and sound: Clock stops dead. Magnificat chant fades in
+
+SCENE 58 (18:06)
+Voiceover: "The dean… Fisherman's Ring… bells… three days of mourning… Nobody needed to."
+Visual: ARCH: 1958 funeral / mourning crowds in Rome. STOCK: church bells swinging
+On-screen text: "Italy: 3 days of national mourning"
+Motion and sound: Real bell tolls, layered
+
+SCENE 59 (18:27)
+Voiceover: "Remember the line… In 1954, he asked… In 1958, the call came… Venerable…"
+Visual: GFX: the full prayer card again, next line revealed. ARCH: Pius XII tomb, Vatican grottoes
+On-screen text: Bid me come to you, that with your saints I may praise you forever. · "1954: sent back · 1958: called" · "VENERABLE · 2009"
+Motion and sound: Slow dissolve between the two dates
+
+SCENE 60 (18:58)
+Voiceover: "Back to the question… He used the time… Hail Mary… neither are you."
+Visual: AI: a modern hand holding a rosary by a lamp (viewer POV). Final shot: the candle from scene 1, burning steady. Fade to black
+On-screen text: "GO or STAY?" (callback) · Pray for us sinners, now and at the hour of our death. · final black: channel name
+Motion and sound: Callback music motif. Hold the candle 3 seconds. Fade to black
+
+THUMBNAIL CONCEPTS
+
+A: "Came for him" (recommended)
+- Image: an archival B&W Pius XII portrait (real) on the left, eyes up. On the right, a soft painterly backlit figure (RECON style, no detailed face). The two are split by warm golden light.
+- Text: NOT YET (white, heavy condensed, with YET in crimson). Avoid "HE SAID NO": the record never says Christ refused him.
+- Badge: small "VATICAN CONFIRMED" tag, top-left.
+
+B: The bed
+- Image: an empty papal bed in dark gold light, with a beam of light falling on the pillow. A small inset of the Pius portrait.
+- Text: STILL ALIVE (with ALIVE in crimson).
+
+C: The overrule
+- Image: the Pius portrait with a crimson "NO COMMENT" stamp crossed out over a Vatican flag.
+- Text: HE OVERRULED THEM (with THEM in crimson).
+
+Thumbnail rules: no more than three words of text, one crimson word, a real face, and nothing that implies a miracle cure.
